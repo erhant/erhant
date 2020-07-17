@@ -6,6 +6,6 @@ Welcome to my GitHub profile! Take a seat...
 
 [![LinkedIn](https://img.shields.io/badge/style-LinkedIn-green?logo=LinkedIn&style=flat&label=%20&color=blue&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114/)
 
-[![Spotify](https://img.shields.io/badge/style-Spotify-green?logo=Spotify&style=flat&label=Spotify&color=green&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany)
+[![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&color=gray&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany)
 
 this page will be constructed in a better way soon...
