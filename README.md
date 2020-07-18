@@ -8,5 +8,5 @@ Welcome to my GitHub profile! Take a seat...
 
 - [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=green&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany)
 
-- [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=gray&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy)
+- [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=lightgray&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy)
 this page will be constructed in a better way soon...
