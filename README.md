@@ -11,7 +11,7 @@
 - Or refer to [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114)
 
 ## Software 👨‍💻
-- For my graduate studies, I work deeply with: <a href="https://en.cppreference.com/w/" target="_blank"><img height="25" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="25" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a>
+- For my graduate studies, I work deeply with: <a href="https://en.cppreference.com/w/" target="_blank"><img height="25" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="25" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a>
   
 - For development I mainly use: <a href="https://nodejs.org/en/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> <a href="https://www.mongodb.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a>
 
