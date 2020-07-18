@@ -12,7 +12,7 @@
 
 ## Software 👨‍💻
 - For my graduate studies, I work deeply with:
-  - <code><a href="https://en.cppreference.com/w/" target="_blank"><img height="50" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a></code>   
+  - <a href="https://en.cppreference.com/w/" target="_blank"><img height="50" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> 
   - <code><a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a></code>
   
 - For development I mainly use:
