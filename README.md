@@ -11,20 +11,13 @@
 - Or refer to [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114)
 
 ## Software 👨‍💻
-- For my graduate studies, I work deeply with:
-  - <a href="https://en.cppreference.com/w/" target="_blank"><img height="50" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> 
-  - <code><a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a></code>
+- For my graduate studies, I work deeply with: <a href="https://en.cppreference.com/w/" target="_blank"><img height="25" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="25" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a>
   
-- For development I mainly use:
-  - <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-  - <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
+- For development I mainly use: <a href="https://nodejs.org/en/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> <a href="https://www.mongodb.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a>
 
-- I am familiar with:
-  - <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-  - <code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+- I am familiar with: <a href="https://www.python.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> <a href="https://golang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a>
 
-- I would like to learn:
-  - <code><a href="https://reactjs.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+- I would like to learn: <a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
 
 ## Personal 🎶🎨
 
