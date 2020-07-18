@@ -8,10 +8,23 @@
   - [![arxiv2](https://img.shields.io/badge/style-A%20Lighthouse%20Illumination%20Problem-green?logo=arXiv&style=flat&label=arXiv&color=b31b1b&link=https://arxiv.org/abs/1903.09001)](https://arxiv.org/abs/1903.09001)
   
 - You can contact me through my personal mail [![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) or school mail [![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr)
-- For a more formal page refer to [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114)
+- Or refer to [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114)
 
 ## Software 👨‍💻
+- For my graduate studies, I work deeply with:
+  - <code><a href="https://en.cppreference.com/w/" target="_blank"><img height="50" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a></code>   
+  - <code><a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a></code>
+  
+- For development I mainly use:
+  - <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+  - <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
 
+- I am familiar with:
+  - <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+  - <code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+
+- I would like to learn:
+  - <code><a href="https://reactjs.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 
 ## Personal 🎶🎨
 
