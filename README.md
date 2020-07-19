@@ -2,7 +2,7 @@
  [![ResearchGate](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114) 
 - I am a Master's student at Koç University, working in [ParCoreLab](https://parcorelab.ku.edu.tr/). My main research topic is optimization of GPU communication in 3D stencil applications.
 - I am also currently developing the backend of [Macerita](https://www.macerita.com/). We are a fresh and ambitious startup, you will see us in the coming years 😉
-- I have keen interest in philosophy and mathematics. I have two preprints, which I wrote myself as a hobby during my undergraduate years. You can find them at my [ResearchGate page](https://www.researchgate.net/profile/Erhan_Tezcan)
+- I have keen interest in philosophy and mathematics. You can find some of my mathematical works at [ResearchGate](https://www.researchgate.net/profile/Erhan_Tezcan).
 
 
 
