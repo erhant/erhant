@@ -17,3 +17,63 @@
 ## Contact ✉️
 [![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) [![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr) 
 <!-- https://shields.io/category/coverage for badges -->
+<!-- testing area -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+</style>
+</head>
+<body>
+
+<h2>Slide in Overlay from the Top</h2>
+
+<div class="container">
+  <img src="img_avatar.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+ 
+</body>
+</html>
