@@ -20,8 +20,7 @@
 <!-- testing area -->
 
 
-<html>
-<head>
+<div>
 <style>
 .container {
   position: relative;
@@ -63,9 +62,6 @@
   -ms-transform: translate(-50%, -50%);
 }
 </style>
-</head>
-<body>
-
 <h2>Slide in Overlay from the Top</h2>
 
 <div class="container">
@@ -74,6 +70,5 @@
     <div class="text">Hello World</div>
   </div>
 </div>
- 
-</body>
-</html>
+
+</div>
