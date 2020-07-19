@@ -15,10 +15,7 @@
 - I am familiar with: <a href="https://www.python.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> <a href="https://golang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a>
 - I would like to learn: <a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
 
-## Personal 🎶🎨
-
-- My ears are full-time occupied with music, check my [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) I also play electric guitar, bass guitar, and currently learning drums and piano.
-- I used to be a competitive gamer! [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=1e1e1e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy)
-- 📷 [![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/)
+## Personal 🎶🎨📷
+[![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/) [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=1e1e1e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
 
 <!-- https://shields.io/category/coverage for badges -->
