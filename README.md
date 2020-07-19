@@ -19,7 +19,7 @@
 <!-- https://shields.io/category/coverage for badges -->
 <!-- testing area -->
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
