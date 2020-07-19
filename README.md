@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=erhant.erhant)
+
 
 ## Occupational 🎓
  [![ResearchGate](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114) 
@@ -20,3 +20,5 @@
 [![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) [![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr) 
 <!-- https://shields.io/category/coverage for badges -->
 <!-- testing area -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=erhant.erhant)
