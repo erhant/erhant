@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/erhant/count.svg)
+[![HitCount](http://hits.dwyl.com/erhant/erhant.svg)](http://hits.dwyl.com/erhant/erhant)
 
 ## Occupational 🎓
  [![ResearchGate](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114) 
