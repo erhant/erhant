@@ -21,4 +21,4 @@
 <!-- https://shields.io/category/coverage for badges -->
 <!-- testing area -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=erhant.erhant)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=erhant.erhant) (visit counter) -->
