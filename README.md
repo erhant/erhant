@@ -5,7 +5,7 @@
 - I am a Master's student at Koç University, working in [ParCoreLab](https://parcorelab.ku.edu.tr/). My main research topic is optimization of GPU communication in 3D stencil applications.
 - I am also currently developing the backend of [Macerita](https://www.macerita.com/). We are a fresh and ambitious startup, you will see us in the coming years 😉
 - I have keen interest in philosophy and mathematics. You can find some of my mathematical works at [ResearchGate](https://www.researchgate.net/profile/Erhan_Tezcan).
-
+- I have a one-man-bedroom--music-project called [Meyveler](https://www.instagram.com/meyvelerband/), which means "Fruits" in Turkish.
 
 
 ## Software 👨‍💻
