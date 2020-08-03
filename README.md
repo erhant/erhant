@@ -17,8 +17,6 @@
 
 [![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact)](https://github.com/erhant?tab=repositories)
 
-
-
 ## Personal 🎼
 [![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/) [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
 
@@ -26,7 +24,3 @@
 
 ## Contact ✉️
 [![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) [![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr) 
-<!-- https://shields.io/category/coverage for badges -->
-<!-- testing area -->
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=erhant.erhant) (visit counter) -->
