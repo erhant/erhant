@@ -13,18 +13,15 @@
 |:--------:|:-----------:|:-----------:|:----:|
 | <a href="https://en.cppreference.com/w/" target="_blank"><img height="35" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="35" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> <a href="https://slurm.schedmd.com/overview.html" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg"></a> | <a href="https://nodejs.org/en/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> <a href="https://www.mongodb.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a> <a href="https://aws.amazon.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> | <a href="https://www.python.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> <a href="https://golang.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a> | <a href="https://reactjs.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a> |
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=erhant&count_private=true&show_icons=true&theme=dracula)](https://github.com/erhant)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact)](https://github.com/erhant?tab=repositories)
-
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=erhant&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact&theme=dracula" />
 </a>
 
-
+<p>
+</p>
 
 
 ## Personal 🎶🎨📷
