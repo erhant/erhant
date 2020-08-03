@@ -24,6 +24,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact" />
 </a>
 
+
+
+
 ## Personal 🎶🎨📷
 [![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/) [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
 
