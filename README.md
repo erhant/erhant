@@ -6,7 +6,7 @@
 - I am also currently developing the backend of [Macerita](https://www.macerita.com/). We are a fresh and ambitious startup, you will see us in the coming years 😉
 - I have keen interest in philosophy and mathematics. You can find some of my mathematical works at [ResearchGate](https://www.researchgate.net/profile/Erhan_Tezcan).
 
-## Software 👨‍💻
+## Software ☕
 [![HackerRank](https://img.shields.io/badge/style-erhany-green?logo=HackerRank&style=flat&label=HackerRank&color=2ec866&link=https://www.hackerrank.com/profile/erhany)](https://www.hackerrank.com/profile/erhany) [![GithubGist](https://img.shields.io/badge/-erhant-green?logo=GitHub&style=flat&label=Gists&color=181717&link=https://gist.github.com/erhant)](https://gist.github.com/erhant) 
 
 | Research | Development | Familiarity | Learning |
@@ -19,7 +19,7 @@
 
 
 
-## Personal 🎶🎨📷
+## Personal 🎼
 [![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/) [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
 
 - I have a one-man-bedroom-music-project called [Meyveler](https://www.instagram.com/meyvelerband/), which means "Fruits" in Turkish.
