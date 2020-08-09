@@ -15,7 +15,7 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=erhant&count_private=true&show_icons=true&theme=buefy)](https://github.com/erhant)
 
-[![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact&hide=jupyter%20notebook,c%23)](https://github.com/erhant?tab=repositories)
+<!-- [![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erhant&layout=compact&hide=jupyter%20notebook,c%23)](https://github.com/erhant?tab=repositories) -->
 
 ## Personal 🎼
 [![Instagram](https://img.shields.io/badge/style-erhantezcan-green?logo=instagram&style=flat&label=Instagram&color=c13584&link=https://www.instagram.com/erhantezcan/)](https://www.instagram.com/erhantezcan/) [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
