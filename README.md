@@ -3,8 +3,8 @@
 ## Occupational 🎓
  [![ResearchGate](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114) 
 - I am a Master's student at Koç University, working in <a rel="noopener noreferrer"  target="_blank" href="https://parcorelab.ku.edu.tr/"><kbd style="color:#FFFFFF; backgroundColor:#C00A27">ParCoreLab</kbd></a>. My main research topic is optimization of GPU communication in 3D stencil applications.
-- I am also currently developing the backend of [Macerita](https://www.macerita.com/). We are a fresh and ambitious startup, you will see us in the coming years 😉
-- I have keen interest in philosophy and mathematics. You can find some of my mathematical works at [ResearchGate](https://www.researchgate.net/profile/Erhan_Tezcan).
+- I am also currently developing the backend of <a rel="noopener noreferrer"  target="_blank" href="https://www.macerita.com/"><kbd style="color:#FFFFFF; backgroundColor:#FF6012">Macerita</kbd></a>. We are a fresh and ambitious startup, you will see us in the coming years 😉
+- I have keen interest in philosophy and mathematics. You can find some of my mathematical works at <a rel="noopener noreferrer"  target="_blank" href="https://www.researchgate.net/profile/Erhan_Tezcan"><kbd style="color:#FFFFFF; backgroundColor:#00CCBB">ResearchGate</kbd></a>.
 
 ## Software ☕
 [![HackerRank](https://img.shields.io/badge/style-erhany-green?logo=HackerRank&style=flat&label=HackerRank&color=2ec866&link=https://www.hackerrank.com/profile/erhany)](https://www.hackerrank.com/profile/erhany) [![GithubGist](https://img.shields.io/badge/-erhant-green?logo=GitHub&style=flat&label=Gists&color=181717&link=https://gist.github.com/erhant)](https://gist.github.com/erhant) 
