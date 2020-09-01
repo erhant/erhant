@@ -11,22 +11,7 @@
 
 | Research | Development | Familiarity | Learning |
 |:--------:|:-----------:|:-----------:|:----:|
-| 
-<a href="https://en.cppreference.com/w/" target="_blank"><img height="35" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a> 
-<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="35" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> 
-<a href="https://slurm.schedmd.com/overview.html" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg"></a> 
-| 
-<a href="https://www.mongodb.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a> 
-<a href="https://expressjs.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a> 
-<a href="https://nodejs.org/en/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> 
-<a href="https://aws.amazon.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> 
-| 
-<a href="https://www.python.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> 
-<a href="https://golang.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a> 
-| 
-<a href="https://nextjs.org/" target="_blank"><img height="35" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></a> 
-|
+| <a href="https://en.cppreference.com/w/" target="_blank"><img height="35" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img height="35" src="https://github.com/uiwjs/file-icons/blob/master/icon/cuda.svg"></a> <a href="https://slurm.schedmd.com/overview.html" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg"></a> | <a href="https://www.mongodb.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a> <a href="https://expressjs.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a><a href="https://reactjs.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a> <a href="https://nodejs.org/en/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> <a href="https://aws.amazon.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> | <a href="https://www.python.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> <a href="https://golang.org/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a> | <a href="https://nextjs.org/" target="_blank"><img height="35" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></a> |
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=erhant&count_private=true&show_icons=true&theme=buefy)](https://github.com/erhant) -->
 
