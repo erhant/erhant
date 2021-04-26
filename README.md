@@ -1,8 +1,6 @@
 
 Heya 👋, I am an M.Sc. student at Koç University, working under <a rel="noopener noreferrer" target="_blank" href="https://parcorelab.ku.edu.tr/"><kbd style="color:#FFFFFF; backgroundColor:#C00A27">ParCoreLab</kbd></a>. I work on GPU-accelerated sparse matrix-vector multiplication and iterative solvers.
 
----
-
 #### Occupational 🎓 
  [![ResearchGate](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) [![LinkedIn](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan-2b95bb114)](https://www.linkedin.com/in/erhan-tezcan-2b95bb114)  
   
