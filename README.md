@@ -7,8 +7,5 @@ Heya 👋, I am an M.Sc. student at Koç University, working under <a rel="noope
 #### Personal 🎼
 [![Spotify](https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) [![Quora](https://img.shields.io/badge/style-Erhan%20Tezcan-green?logo=quora&style=flat&label=Quora&color=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan)](https://www.quora.com/profile/Erhan-Tezcan) [![Steam](https://img.shields.io/badge/-erhany-green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) 
 
-#### Arsenal 🛠️
-[![VSCode](https://img.shields.io/badge/-erhany-green?logo=visualstudiocode&style=flat&label=VSCode&color=007ACC)]() [![JetBrains](https://img.shields.io/badge/-erhany-black?logo=jetbrains&style=flat&label=WebStorm&color=#000000)]() 
-
 #### Contact ✉️
 [![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) [![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr) 
