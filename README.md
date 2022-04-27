@@ -1,16 +1,56 @@
 
-Heya 👋, I am a full-stack developer from Istanbul, Turkey! I am currently building the tech of [Macerita](https://www.macerita.com/) 🚀.
+<h2>Heya 👋, it's <a href="https://www.erhant.me/about">Erhan</a>!</h2> 
 
-#### Occupational 🎓 
- [![ResearchGate](https://img.shields.io/badge/--green?logo=ResearchGate&style=flat&label=ResearchGate&color=00ccbb&link=https://www.researchgate.net/profile/Erhan_Tezcan)](https://www.researchgate.net/profile/Erhan_Tezcan) 
- [![LinkedIn](https://img.shields.io/badge/--green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/erhan-tezcan)](https://www.linkedin.com/in/erhan-tezcan)  
- <!-- [![GoogleScholar](https://img.shields.io/badge/--green?logo=GoogleScholar&style=flat&label=Google%20Scholar&color=4285F4&link=https://scholar.google.com/citations?user=rYMVv8wAAAAJ)](https://scholar.google.com/citations?user=rYMVv8wAAAAJ) -->
- 
-#### Personal 🎼
-[![Spotify](https://img.shields.io/badge/--green?logo=Spotify&style=flat&label=Spotify&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany) 
-[![Quora](https://img.shields.io/badge/--green?logo=quora&style=flat&label=Quora&color=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan)](https://www.quora.com/profile/Erhan-Tezcan) 
-<!-- [![Steam](https://img.shields.io/badge/--green?logo=Steam&style=flat&label=Steam&color=2a475e&link=https://steamcommunity.com/id/erhanyyy)](https://steamcommunity.com/id/erhanyyy) -->
+<!-- links -->
+<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-erhan%20tezcan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erhan-tezcan" alt="LinkedIn Badge"></a>
+<a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Erhan%20Tezcan-gray?logo=ResearchGate&style=flat-square&labelColor=#5C5F66&link=https://www.researchgate.net/profile/Erhan_Tezcan" alt="ResearchGate Badge"></a>
+<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat-square&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
+<a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Erhan%20Tezcan-green?logo=quora&style=flat-square&color=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan" alt="Quora Badge"></a>
 
-#### Contact ✉️
-[![Gmail](https://img.shields.io/badge/style-erhany96@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:erhany96@gmail.com)](mailto:erhany96@gmail.com) 
-[![Gmail Badge](https://img.shields.io/badge/style-etezcan19@ku.edu.tr-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:etezcan19@ku.edu.tr)](mailto:etezcan19@ku.edu.tr) 
+<!-- about -->
+<h3>About me</h3>
+<ul>
+ <li>I am a full-stack developer from Istanbul, Turkey.</li>
+ <li>I am currently building the frontend & backend tech of <a href="https://www.macerita.com/">Macerita</a>, a fresh startup! 🚀</li>
+ <li>I am learning <b>web3</b> development on the side!</li>
+ <li>Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
+ <li>I occasionally write about programming and maths in my <a href="https://www.erhant.me/posts">blog</a>.</li>
+ <li>You can check out some of my publications on <a href="https://www.researchgate.net/profile/Erhan-Tezcan">ResearchGate</a>.</li>
+</ul>
+
+<!-- tech -->
+<h3>Tech</h3>
+I like to experiment with different tools and languages. Here is my tech-stack:
+<h4>Main</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgsql" width="35" height="35" />
+</p>
+
+<h4>Familiar</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" />
+</p>
+
+<h4>Curious</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35" />
+</p>
+
+<h4>GitHub Stats</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true" alt="erhant-stats" />
