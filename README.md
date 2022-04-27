@@ -2,10 +2,10 @@
 <h2>Heya 👋, it's <a href="https://www.erhant.me/about">Erhan</a>!</h2> 
 
 <!-- links -->
-<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-erhan%20tezcan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erhan-tezcan" alt="LinkedIn Badge"></a>
-<a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Erhan%20Tezcan-gray?logo=ResearchGate&style=flat-square&labelColor=#5C5F66&link=https://www.researchgate.net/profile/Erhan_Tezcan" alt="ResearchGate Badge"></a>
-<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-erhany-green?logo=Spotify&style=flat-square&color=1ed760&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
-<a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Erhan%20Tezcan-green?logo=quora&style=flat-square&color=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan" alt="Quora Badge"></a>
+<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erhan-tezcan" alt="LinkedIn Badge"></a>
+<a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Research%20Gate-gray?logo=ResearchGate&style=flat-square&labelColor=5C5F66&link=https://www.researchgate.net/profile/Erhan_Tezcan" alt="ResearchGate Badge"></a>
+<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
+<a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan" alt="Quora Badge"></a>
 
 <!-- about -->
 <h3>About me</h3>
@@ -20,8 +20,9 @@
 
 <!-- tech -->
 <h3>Tech</h3>
-I like to experiment with different tools and languages. Here is my tech-stack:
-<h4>Main</h4>
+I like to experiment with different tools and languages. Here are the technologies I use or have used:
+
+<h4>👨‍💻 - Main</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="35" height="35" />
@@ -36,7 +37,7 @@ I like to experiment with different tools and languages. Here is my tech-stack:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgsql" width="35" height="35" />
 </p>
 
-<h4>Familiar</h4>
+<h4>💡 - Familiar</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" />
@@ -45,12 +46,12 @@ I like to experiment with different tools and languages. Here is my tech-stack:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" />
 </p>
 
-<h4>Curious</h4>
+<h4>🧪 - Curious</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35" />
 </p>
 
-<h4>GitHub Stats</h4>
+<h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true" alt="erhant-stats" />
