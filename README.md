@@ -12,7 +12,7 @@
 <ul>
  <li>I am a full-stack developer from Istanbul, Turkey.</li>
  <li>I am currently building the frontend & backend tech of <a href="https://www.macerita.com/">Macerita</a>, a fresh startup! 🚀</li>
- <li>I am learning <b>web3</b> development on the side!</li>
+ <li>I am learning Web3.0 development since the start of 2022. I focus on Solidity programming. </li>
  <li>Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
  <li>I occasionally write about programming and maths in my <a href="https://www.erhant.me/posts">blog</a>.</li>
  <li>You can check out some of my publications on <a href="https://www.researchgate.net/profile/Erhan-Tezcan">ResearchGate</a>.</li>
