@@ -7,8 +7,6 @@
 <a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
 <a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan" alt="Quora Badge"></a>
 
-<!-- about -->
-<h3>About me</h3>
 <ul>
  <li>I am a full-stack developer from Istanbul, Turkey.</li>
  <li>I am currently building the frontend & backend tech of <a href="https://www.macerita.com/">Macerita</a>, a fresh startup! 🚀</li>
