@@ -18,11 +18,10 @@
  <li>You can check out some of my publications on <a href="https://www.researchgate.net/profile/Erhan-Tezcan">ResearchGate</a>.</li>
 </ul>
 
-<!-- tech -->
-<h3>Tech</h3>
+
 I like to experiment with different tools and languages. Here are the technologies I use or have used:
 
-<h4>👨‍💻 - Main</h4>
+<h4>👨‍💻 Main</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="35" height="35" />
@@ -37,7 +36,7 @@ I like to experiment with different tools and languages. Here are the technologi
 </p>
 
 
-<h4>💡 - Familiar</h4>
+<h4>💡 Familiar</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" />
@@ -47,7 +46,7 @@ I like to experiment with different tools and languages. Here are the technologi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="35" height="35" />
 </p>
 
-<h4>🧪 - Curious</h4>
+<h4>🧪 Curious</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="35" height="35" />
