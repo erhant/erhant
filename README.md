@@ -2,19 +2,17 @@
 <h2>Heya 👋, it's <a href="https://www.erhant.me/about">Erhan</a>!</h2> 
 
 <!-- links -->
-<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erhan-tezcan" alt="LinkedIn Badge"></a>
-<a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Research%20Gate-gray?logo=ResearchGate&style=flat-square&labelColor=5C5F66&link=https://www.researchgate.net/profile/Erhan_Tezcan" alt="ResearchGate Badge"></a>
-<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66&link=https://open.spotify.com/user/erhany)](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
-<a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27&link=https://www.quora.com/profile/Erhan-Tezcan" alt="Quora Badge"></a>
+<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn" alt="LinkedIn Badge"></a>
+<a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Research%20Gate-gray?logo=ResearchGate&style=flat-square&labelColor=5C5F66" alt="ResearchGate Badge"></a>
+<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
+<a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27" alt="Quora Badge"></a>
+<a href="https://erhant.me"><img src="https://img.shields.io/badge/Homepage-gray?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Homepage"></a>
+<a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog"></a>
 
-<ul>
- <li>I am a full-stack developer from Istanbul, Turkey.</li>
- <li>I am learning Web3.0 development since the start of 2022. I focus on Solidity programming, and have a further interest in Smart Contract Security. </li>
- <li>Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
- <li>I occasionally write about programming and maths in my <a href="https://www.erhant.me/posts">blog</a>.</li>
- <li>You can check out some of my publications on <a href="https://www.researchgate.net/profile/Erhan-Tezcan">ResearchGate</a>.</li>
-</ul>
-
+- I am a Full-stack Web3.0 Developer from Istanbul, Turkey.
+- My stack is TypeScript oriented, using Express.JS for backend and NextJS for frontend. As for Web3.0 development, I use Hardhat.
+- I have further interest in cryptography and smart-contract security.
+- Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>. 
 
 I like to experiment with different tools and languages. Here are the technologies I use or have used:
 
