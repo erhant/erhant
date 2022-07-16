@@ -2,12 +2,14 @@
 <h2>Heya 👋, it's <a href="https://www.erhant.me/about">Erhan</a>!</h2> 
 
 <!-- links -->
-<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
 <a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-Research%20Gate-gray?logo=ResearchGate&style=flat-square&labelColor=5C5F66" alt="ResearchGate Badge"></a>
 <a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
 <a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27" alt="Quora Badge"></a>
 <a href="https://erhant.me"><img src="https://img.shields.io/badge/Homepage-gray?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Homepage"></a>
-<a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog"></a>
+<a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog"></a>
+<a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain"></a>
+
 
 - I am a Full-stack Web3.0 Developer from Istanbul, Turkey.
 - My stack is TypeScript oriented, using Express.JS for backend and NextJS for frontend. As for Web3.0 development, I use Hardhat.
