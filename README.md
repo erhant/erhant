@@ -12,8 +12,11 @@
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 
 
-- I am a Full-stack Blockchain Developer from Istanbul, Turkey. I am currently a Blockchain Developer at [Dynasty Studios](https://dynastystudios.io/).
-- My stack is TypeScript oriented, using Express.JS for backend and NextJS for frontend. I use Hardhat and Solidity for smart-contract development.
+- I am a Full-stack Blockchain Developer from Istanbul, Turkey.
+- I am currently positioned as a Blockchain Developer at [Dynasty Studios](https://dynastystudios.io/).
+- My stack is TypeScript oriented, using [ExpressJS](https://expressjs.com/) for backend and [NextJS](https://nextjs.org/) for frontend. I use [Hardhat](https://hardhat.org/) and [Solidity](https://docs.soliditylang.org/en/latest/) for smart-contract development.
+  - For TypeScript, I use [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) with GTS formatter and linter.
+  - For Solidity, I use [Hardhat + Solidity](https://hardhat.org/hardhat-vscode/docs/formatting) formatter and [Solhint](https://protofire.github.io/solhint/) linter.
 - I have deep interest in cryptography & smart-contract security, as well as mathematics in general.
 - Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
 
