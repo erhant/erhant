@@ -55,4 +55,4 @@ I like to experiment with different tools and languages. Here are the technologi
 </p>
 
 <h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true" alt="erhant-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
