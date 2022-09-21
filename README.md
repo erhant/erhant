@@ -9,8 +9,7 @@
 <a href="https://www.researchgate.net/profile/Erhan_Tezcan"><img src="https://img.shields.io/badge/-ResearchGate-gray?logo=ResearchGate&style=flat-square&labelColor=5C5F66" alt="Research Gate Badge"></a>
 <a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/-Spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
 <a href="https://www.quora.com/profile/Erhan-Tezcan"><img src="https://img.shields.io/badge/-Quora-gray?logo=quora&style=flat-square&labelColor=b92b27" alt="Quora Badge"></a>
-<a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
-
+<a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 
 - I am a Full-stack Blockchain Developer from Istanbul, Turkey.
 - I am currently positioned as a Blockchain Developer at [Dynasty Studios](https://dynastystudios.io/).
@@ -21,38 +20,56 @@
 - Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
 
 I like to experiment with different tools and languages. Here are the technologies I use or have used:
-
-<h4>👨‍💻 Main</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" />
+ 
+<h4>💻 Main Tech</h4>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/ReactJS-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
+<img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+<img src="https://img.shields.io/badge/Prettier-323330?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.JS" />
+<img src="https://img.shields.io/badge/Bash-363636?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
+<details>
+<summary><h4>💡 Familiar Tech</h4></summary> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
+<img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="c" />
+<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
+<img src="https://img.shields.io/badge/PgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgsql" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
+</details>
 
-<h4>💡 Familiar</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgsql" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="35" height="35" />
-</p>
 
-<h4>🧪 Curious</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35" />
-</p>
+<details>
+<summary><h4>🧪 Curious About</h4></summary> 
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="haskell" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="rust" />
+<img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=flat-square&logo=assemblyscript&logoColor=white" alt="assemblyscript" />
+</details>
 
-<h3>Stats</h3>
+
+<details>
+<summary><h4>📈 Stats</h4></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
+</details> 
+
+<details>
+<summary><h4>💬 Top Languages</h4></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
+</details> 
+
+
+
+<!-- logos at https://simpleicons.org/?q=bash and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
