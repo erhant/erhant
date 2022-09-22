@@ -66,7 +66,7 @@ I like to experiment with different tools and languages. Here are the technologi
 
 <details>
 <summary><h4>💬 Top Languages</h4></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=false&theme=onedark" alt="erhant-stats" />
 </details> 
 
 
