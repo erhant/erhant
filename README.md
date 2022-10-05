@@ -36,6 +36,8 @@ I like to experiment with different tools and languages. Here are the technologi
 <img src="https://img.shields.io/badge/Prettier-323330?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.JS" />
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha" />
+<img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" alt="Chai" />
 <img src="https://img.shields.io/badge/Bash-363636?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
