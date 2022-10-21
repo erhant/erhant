@@ -12,14 +12,15 @@
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 
 - I am a Full-stack Blockchain Developer from Istanbul, Turkey.
-- I am currently positioned as a Blockchain Developer at [Dynasty Studios](https://dynastystudios.io/).
+- I am currently working at [Dynasty Studios](https://dynastystudios.io/).
 - My stack is TypeScript oriented, using [ExpressJS](https://expressjs.com/) for backend and [NextJS](https://nextjs.org/) for frontend. I use [Hardhat](https://hardhat.org/) and [Solidity](https://docs.soliditylang.org/en/latest/) for smart-contract development.
-  - For TypeScript, I use [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) with GTS formatter and linter.
-  - For Solidity, I use [Hardhat + Solidity](https://hardhat.org/hardhat-vscode/docs/formatting) formatter and [Solhint](https://protofire.github.io/solhint/) linter.
+  - For TypeScript, I use [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html).
+  - For Solidity, I use [Hardhat + Solidity](https://hardhat.org/hardhat-vscode/docs/formatting) and [Solhint](https://protofire.github.io/solhint/).
+- Occasionally, I use Go for backend & blockchain-node level programming.
 - I have deep interest in cryptography & smart-contract security, as well as mathematics in general.
 - Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
 
-I like to experiment with different tools and languages. Here are the technologies I use or have used:
+I love experimenting with different tools and languages. Here are the technologies I use or have used:
  
 <h4>💻 Main Tech</h4>
 <p>
@@ -27,7 +28,9 @@ I like to experiment with different tools and languages. Here are the technologi
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 <img src="https://img.shields.io/badge/ReactJS-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
+<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma" />
@@ -46,7 +49,6 @@ I like to experiment with different tools and languages. Here are the technologi
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="c" />
-<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
 <img src="https://img.shields.io/badge/PgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgsql" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
@@ -73,5 +75,5 @@ I like to experiment with different tools and languages. Here are the technologi
 
 
 
-<!-- logos at https://simpleicons.org/?q=bash and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+<!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
