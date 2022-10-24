@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    // General
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "rangav.vscode-thunder-client",
+    "mikestead.dotenv",
+    "SimonSiefke.svg-preview",
+    "mechatroner.rainbow-csv",
+    "mtxr.sqltools",
+    // Theme
+    "akamud.vscode-theme-onedark",
+    "ms-vscode.cpptools-themes",
+    // Solidity
+    "NomicFoundation.hardhat-solidity",
+    "JuanBlanco.solidity",
+    // Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    // Go
+    "golang.go",
+    // SCSS
+    "sibiraj-s.vscode-scss-formatter",
+    // C / Cpp
+    "xaver.clang-format",
+    "ms-vscode.cpptools"
+  ]
+}
