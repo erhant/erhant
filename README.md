@@ -13,10 +13,9 @@
 
 - I am a Full-stack Blockchain Developer from Istanbul, Turkey.
 - I am currently working at [Dynasty Studios](https://dynastystudios.io/).
-- My stack is TypeScript oriented, using [ExpressJS](https://expressjs.com/) for backend and [NextJS](https://nextjs.org/) for frontend. I use [Hardhat](https://hardhat.org/) and [Solidity](https://docs.soliditylang.org/en/latest/) for smart-contract development.
+- My stack is TypeScript & Go oriented: I use [ExpressJS](https://expressjs.com/) or [Gin](https://gin-gonic.com/) for backend, and [NextJS](https://nextjs.org/) for frontend. I use [Hardhat](https://hardhat.org/) and [Solidity](https://docs.soliditylang.org/en/latest/) for smart-contract development.
   - For TypeScript, I use [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html).
   - For Solidity, I use [Hardhat + Solidity](https://hardhat.org/hardhat-vscode/docs/formatting) and [Solhint](https://protofire.github.io/solhint/).
-- Occasionally, I use Go for backend & blockchain-node level programming.
 - I have deep interest in cryptography & smart-contract security, as well as mathematics in general.
 - Most of my projects are here on my <a href="https://github.com/erhant?tab=repositories">GitHub</a>, but you can also check them out in my <a href="https://www.erhant.me/projects">projects page</a>.
 
@@ -25,10 +24,10 @@ I love experimenting with different tools and languages. Here are the technologi
 <h4>💻 Main Tech</h4>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 <img src="https://img.shields.io/badge/ReactJS-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
-<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
@@ -67,13 +66,6 @@ I love experimenting with different tools and languages. Here are the technologi
 <summary><h4>📈 Stats</h4></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
 </details> 
-
-<details>
-<summary><h4>💬 Top Languages</h4></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=false&theme=onedark" alt="erhant-stats" />
-</details> 
-
-
 
 <!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
