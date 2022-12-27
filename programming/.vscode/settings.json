@@ -5,6 +5,7 @@
   "python.formatting.provider": "yapf",
   "explorer.sortOrder": "type",
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
     "source.fixAll.format": true
