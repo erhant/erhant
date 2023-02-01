@@ -12,7 +12,7 @@
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 
 - I am a Full-stack Blockchain Developer from Istanbul, Turkey.
-- I am currently working at [Dynasty Studios](https://dynastystudios.io/).
+- I am currently working as Blockchain Developer at [FirstBatch](https://www.firstbatch.xyz/).
 - My stack is TypeScript & Go oriented: I use [ExpressJS](https://expressjs.com/) or [Gin](https://gin-gonic.com/) for backend, and [NextJS](https://nextjs.org/) for frontend. I use [Hardhat](https://hardhat.org/) and [Solidity](https://docs.soliditylang.org/en/latest/) for smart-contract development.
   - For TypeScript, I use [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html).
   - For Solidity, I use [Hardhat + Solidity](https://hardhat.org/hardhat-vscode/docs/formatting) and [Solhint](https://protofire.github.io/solhint/).
@@ -24,7 +24,7 @@ I love experimenting with different tools and languages. Here are the technologi
 <h4>💻 Main Tech</h4>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
+<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="golang" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 <img src="https://img.shields.io/badge/ReactJS-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
