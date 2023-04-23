@@ -3,10 +3,11 @@
 
 <!-- links -->
 <p align="center">
+<a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-gray?style=flat-square&labelColor=gray&logo=Twitter" alt="Twitter Badge"></a>
 <a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/linkedin-gray?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
-<a href="https://erhant.me"><img src="https://img.shields.io/badge/web-gray?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Website"></a>
+<a href="https://erhant.me"><img src="https://img.shields.io/badge/website-gray?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Website"></a>
 <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/blog-gray?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
-<a href="https://scholar.google.com/citations?user=rYMVv8wAAAAJ"><img src="https://img.shields.io/badge/pubs-gray?logo=GoogleScholar&style=flat-square&labelColor=ecf0f1" alt="Google Scholar Badge"></a>
+<a href="https://scholar.google.com/citations?user=rYMVv8wAAAAJ"><img src="https://img.shields.io/badge/publications-gray?logo=GoogleScholar&style=flat-square&labelColor=ecf0f1" alt="Google Scholar Badge"></a>
 <a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/spotify-gray?logo=Spotify&style=flat-square&labelColor=5C5F66](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 </p>
