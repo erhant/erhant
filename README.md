@@ -21,8 +21,6 @@
 <img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/.next-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
 <img src="https://img.shields.io/badge/.git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/.scss-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
-<img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/.eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
 <img src="https://img.shields.io/badge/.prettier-323330?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
@@ -34,6 +32,8 @@
 <img src="https://img.shields.io/badge/.c-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/.cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="c++" />
 <img src="https://img.shields.io/badge/.cu-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/.scss-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
+<img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/.sql-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgsql" />
 <img src="https://img.shields.io/badge/.tex-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" />
 <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
