@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/.next-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
 <img src="https://img.shields.io/badge/.git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/.sh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/.eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
 <img src="https://img.shields.io/badge/.prettier-323330?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
