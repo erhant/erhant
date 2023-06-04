@@ -4,11 +4,9 @@
 <!-- links -->
 <p align="center">
 <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-gray?style=flat-square&labelColor=gray&logo=Twitter" alt="Twitter Badge"></a>
-<a href="https://www.linkedin.com/in/erhan-tezcan"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
 <a href="https://erhant.me"><img src="https://img.shields.io/badge/website-676BB0?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Website"></a>
 <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/blog-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
-<a href="https://scholar.google.com/citations?user=rYMVv8wAAAAJ"><img src="https://img.shields.io/badge/publications-4285F4?logo=GoogleScholar&style=flat-square&labelColor=ecf0f1" alt="Google Scholar Badge"></a>
-<a href="https://open.spotify.com/user/erhany"><img src="https://img.shields.io/badge/spotify-5C5F66?logo=Spotify&style=flat-square&labelColor=5C5F66](https://open.spotify.com/user/erhany" alt="Spotify Badge"></a>
+<a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/cryptography-003A70?style=flat-square&logo=letsencrypt&labelColor=#003A70&logoColor=white" alt="Cryptonotes"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 </p>
 
