@@ -6,7 +6,8 @@
 <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-gray?style=flat-square&labelColor=gray&logo=Twitter" alt="Twitter Badge"></a>
 <a href="https://erhant.me"><img src="https://img.shields.io/badge/website-676BB0?style=flat-square&logo=About.me&labelColor=676BB0&logoColor=white" alt="Website"></a>
 <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/blog-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
-<a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/cryptography-003A70?style=flat-square&logo=letsencrypt&labelColor=#003A70&logoColor=white" alt="Cryptonotes"></a>
+<a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/cryptography-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="Cryptonotes"></a>
+<a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/spotify-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 </p>
 
@@ -17,10 +18,6 @@
 <img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 <img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/.next-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
-<img src="https://img.shields.io/badge/.git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/.sh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/.eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
-<img src="https://img.shields.io/badge/.prettier-323330?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
 
@@ -28,18 +25,17 @@
 <p align="center">
 <img src="https://img.shields.io/badge/.go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="Golang" />
 <img src="https://img.shields.io/badge/.js-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/.c-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/.cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="c++" />
 <img src="https://img.shields.io/badge/.cu-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Cuda" />
-<img src="https://img.shields.io/badge/.scss-CC6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
 <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/.sql-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PgSql" />
 <img src="https://img.shields.io/badge/.tex-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+<img src="https://img.shields.io/badge/.sql-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PgSql" />
 <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <h4 align="center">curious</h4>
 <p align="center">
+<img src="https://img.shields.io/badge/.tsx-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" />
 <img src="https://img.shields.io/badge/.hs-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
 <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/.huff-black?style=flat-square&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgARCADIAMgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAMEBQYBAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHFAAAAAAAAAAAAAAAAATahnWtmJMut0P2cl51GGtMAAAAAAAD6+dYuWvmREcgilCLA6PmSAKAAAAAAA2sjqSKf4+088o3CQEWbfrmCFAAAAAAA+t3A6cmfH2lO7WnPpBOPPRzEHR84oAAAAAADWydc1va9hI/fr0oZG9SJr/KzGrgTQqAAAAAAAmh+jq/atlPQKV3wzsXajXHAAAAAAAABo7uLtIABnXvYDmnvigAAAAAAAOn5jSNxSJdUhd5zRxyMKAAAAAAAAvVOhLQSKG2KGB1vPlIKAAAAAAANwpaN7xKS6KS6KUVgc750/PLCAAAAAAD3RzRpM0aTNGkzRpM0aVSAAAAAAAAAAAAAAAAAAf/EACcQAAIBAgYCAgIDAAAAAAAAAAECAwAEEBESExRAICEwMTNQIyRB/9oACAEBAAEFAv3iwSNXCeuE9NbyL1I42kMVu8ZGda6Vgwp41kE0DRdEezGYY1BzwyyYIA1SNoSSd36NrCrLoUecybcnQhd9pA+IOoYa11Xw6C+29AKdQq4ZiUXSuDxI5ukzh+ceiFafGL3L4fdSxmN/nEi7SEsKj9N/pkAfG4jEkfz2qaxh9OwzEq70QlkSrafdwu30xfPZNSHcbF1OckYnAJRhcSipJGkPzxfk8ZFKNLEs6EZHoA5GV8oPGP8AhuLuL10YjuL4z/nYal6NmUB8SATLMsQ6UOZi8bnPf6UV0VG7JW7JW7JW7JT3LJTsXbpWgzmwdNdbFXK/1+koLGCLaXxnh2j0bYmNuRXIrkVyK5FcipJi8f10Le3AXy2mraaniV1lTbf5uY9cx65j1zHrmPXMeuY9cx65j1zHqWQyn9z/AP/EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQMBAT8BKf/EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQIBAT8BKf/EADEQAAECAgkCBAUFAAAAAAAAAAEAAhExAxASICEzQFGRMmETIkFxMFBSYoFCcoKSof/aAAgBAQAGPwL55g1dTV1BdPGkg0KPkKxRwjDZRaavMFGbd9FAPbysKoj1mrQwqLoRgp4baG27FYNHF8t0IFHRx7lRpCPYVxFdmOOyadAF2URUKJkzNBu1cTNft0NqkMG/TXSu7wvWdAHkwEFEiFVIPujVZdhtcO40EXYhshXHer72qFohQdMVQ+rQOb+VaHT6d7ltnUP9Vuj6vULDArrKi7QAb4XvEZ/Ibq3RzUDoQUXD1F4s/S7ELxB+dEyj2Mb1D7ojfRGJ814EiSxnto22pwvOjow2za2WQeVknlZJ5WSeV5qKH5RcdGO1fU4eyzKT+y3hvo4Ca7+t7Dp0RdYcfYLKfwsp/Cyn8LKfwsp/Cyn8It8J+PbQhzxjfzXLNcoPx7ot+PJqk1SapNUmqTVJqk1SapNUTD51/8QAKBABAAEDAwQBBAMBAAAAAAAAAREAITFAQVEQIHHxYYGRwfBQsdEw/9oACAEBAAE/If5zMsctqNwPvTsL96yTfupIzo7qXPxWZz5m1WMJ+Kl8hDuPpVzwekc+pvokAQFiea86x3UBlSdL34lFtw5jD0u44KlxgtmNDCnKxtRhPwO5BIbjXC23jQzmQMkFT5J2wnTFGNwcdRlg7qH57mgEB3aCEQCh2Rx0/wA21UHMwjqLNhuMVfiVuztoFA8UYSO4d/NY6GV9fagEcNM19Hk0ERCUykGw5jof1iSlgHNbrl1s9ig2GR0EU8mOtHgIasQw7PFT22x81bsDZ2pAxf3dLMb2fTQGCNMpRI/J2EAchx4rH4WSpMk6Qn7lTsxoL5UDF4oIIMHbFv8AAohB+dIgQmhYzIzXhEfXuH+DlHydEf5teO6dj9WqddkaK0YrE9wgFweKvBO3Rk3k7n9Q8aNq8EG/bnvejXJ4mmdl0cqjBesALHnHRsIWyzloxIytqHkeXagkJI08tzw8aJQTSCiVaVaVaVaVaVYhWG9EVCRoJIjuDt3JI7V++V++UCCQeVK5th/7FmvXNeua9c165r1zXrmvXNeua9c165oSYQi381//2gAMAwEAAgADAAAAEPPPPPPPPPPPPPPPPPNL01PPPPPPPPLEw49/PPPPPPPNi5w//PPPPPPPCN7ww9PPPPPPPKI2/wAPzzzzzzzzg8McTzzzzzzzzysMNfTzzzzzzzzwMNfzzzzzzzzyAONPzzzzzzzzic8sPzzzzzzzwwwwwxzzzzzzzzzzzzzzzzzz/8QAFBEBAAAAAAAAAAAAAAAAAAAAcP/aAAgBAwEBPxAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAcP/aAAgBAgEBPxAp/8QAKhABAAEDAgQGAwEBAQAAAAAAAREAITFBUUBhccEQIIGh0fCRsfFQMOH/2gAIAQEAAT8Q/wBvNDiVcl70wvmxLtRBntmHapuDNfgpEgRMjwaWQLpYOpocHlqehizSVsbFJ2qJizvIz1EbLRoGuP118Hx1ixIHRpxGew05JwKgqKJUB1aE78glb0dImE18LFYkG5h7figbcOvVTfn4G2ATDX/ytFvYYd+B16wfZq707KZqDt5mQAIRLJUEYMvdY4EB0uHmmWN81IRBAE5l7r4KBVANaaPVtzfxLoMwI+k59Kg2Zy8zPfgDw4R9WgICwGAChzrNJIknJy8MCnK27DeicAMkzB4mJY3L2oYdGCpdDK534DnmGlmXS4aK1oAAABoaeGejY6D+eUy5CEdSrqpn8Q8AYkRZ3jBTB5mxmiebnwnjK/QDUpYkHXb90HaZl+oTvPkjAU6cuescAbLJDAt1qfBtEx60Sn7falXU8Ey0qHBIbdNR0dPShQdbm6IcUEoKRLR8EaM3zfHAQTmwnEYaWECnSJLfotB6+QyiEYea57Na7IBCpo7NTwSlrJuVAScoJ+GgRlEAEAcBKXQJYlMJQAABAGA8t6LU9DXrFC3OTJbpedJgVCOR4HCGh1GjW4CLrYfuiYvnyN6YHBDu29k/FORQICGTA8FeDDz4jcPd80Ti/wA6Bgi/kUkMcDEFZtknJ3nzLgJWLqsugksvXYpZV34EYpQpAruaLzjzAy5ZPwW9uDtd8WjkMM1P8L4r+O+K/jviv474olLZLL7UvYveMGxwbXwIcrQfvxzIUzKetQ+jtUbZuSlXiV9eDVa2Aa0vFL/sHlZCBCJZKjsp+I8EABlEYuefe973shNgFYHenCkaJDwHL8YDpbfwioqKiokKkiTJzr+N8K/jfCm2RQrdcn8pA5l1DR/7KBgYZhr753r753r753r753r753r753r753r753r753r753rHzYpJLu8/9r//2Q==" alt="Huff" />
