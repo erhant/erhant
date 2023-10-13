@@ -1,8 +1,4 @@
 {
-  "python.linting.enabled": true,
-  "python.linting.pylintEnabled": true,
-  "python.linting.pylintPath": "pylint",
-  "python.formatting.provider": "yapf",
   "explorer.sortOrder": "type",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -17,4 +13,3 @@
   },
   "emmet.showExpandedAbbreviation": "never"
 }
-
