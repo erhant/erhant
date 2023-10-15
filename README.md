@@ -48,8 +48,6 @@
 
 [![moonmath](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=moonmath&theme=onedark)](https://github.com/erhant/moonmath)
 
-[![zkhack-puzzles](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=zkhack-puzzles&theme=onedark)](https://github.com/erhant/zkhack-puzzles)
-
 [![cryptopals](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=cryptopals&theme=onedark)](https://github.com/erhant/cryptopals)
 
 <h4>EVM & Solidity</h4>
@@ -63,6 +61,12 @@
 [![solidity-ctfs](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=solidity-ctfs&theme=onedark)](https://github.com/erhant/solidity-ctfs)
 
 [![diamonds](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=diamonds-with-typescript&theme=onedark)](https://github.com/erhant/diamonds-with-typescript)
+
+<h4>Type Wizardry</h4>
+
+[![fftype](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=fftype&theme=onedark)](https://github.com/erhant/fftype)
+
+[![tsch-solutions](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=tsch-solutions&theme=onedark)](https://github.com/erhant/tsch-solutions)
 
 </details>
 
