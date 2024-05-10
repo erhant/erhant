@@ -1,4 +1,4 @@
-<h3 align="center"><code>hellofriend</code></h3>
+<h3 align="center"><code>hello, friend.</code></h3>
 
 <!-- links -->
 <p align="center">
@@ -19,9 +19,8 @@
 <h4 align="center">main</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
-<img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-<img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
@@ -30,11 +29,12 @@
 
 <h4 align="center">familiar</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 <img src="https://img.shields.io/badge/.go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="Golang" />
 <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/.cu-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Cuda" />
 <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/.tsx-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" />
 <img src="https://img.shields.io/badge/.tex-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 <img src="https://img.shields.io/badge/.next-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
