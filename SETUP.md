@@ -3,10 +3,11 @@
 Note to self because I'm dumb I should write down what I do when I change a PC (most probably a Mac):
 
 1. Download Brave Browser (using Safari)
+1. Install Brave extensions: Rabby, MetaMask, Phantom
 1. Download Spotify, open up some jazz in the background
 1. Import bookmarks (hopefully you have them)
-1. Download VSCode
-2. Install extensions (hopefully you sync with GitHub)
+1. Download VSCode & sign-in with GitHub and sync settings
+1. Install Homebrew
 1. Install FiraCode font
 1. Download Discord
 1. Download Telegram & Whatsapp Desktop
@@ -21,3 +22,4 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Install BunJS
 1. Install Foundry
 1. Install Circom
+1. Setup GitHub SSH keys
