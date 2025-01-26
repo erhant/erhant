@@ -17,9 +17,10 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Login to stuff in your bookmarks, especially Google account
 1. Download Docker Desktop
 1. Install Rust
-1. Install Python, use `uv` for Python stuff
-1. NodeJS is installed likely, install `yarn` and `pnpm`
+1. Install Python, and install `uv`
+1. Install NodeJS, and install `yarn` and `pnpm` as well
 1. Install BunJS
 1. Install Foundry
 1. Install Circom
 1. Setup GitHub SSH keys
+1. Download Ollama
