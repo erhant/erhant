@@ -10,6 +10,8 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Install Homebrew
 1. Install FiraCode font
 1. Download Discord
+1. Download Zoom (always need it somewhere)
+1. Download Zotero (paper reading etc.)
 1. Download Telegram & Whatsapp Desktop
 1. Download Ghostty 👻
 1. Setup `zsh` with <https://github.com/gustavohellwig/gh-zsh>
