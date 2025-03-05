@@ -2,8 +2,8 @@
 
 <!-- links -->
 <p align="center">
-<a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-gray?style=flat-square&labelColor=gray&logo=Twitter" alt="Twitter Badge"></a>
-<a href="https://erhant.me"><img src="https://img.shields.io/badge/homepage-676BB0?style=flat-square&logo=bash&labelColor=676BB0&logoColor=white" alt="Website"></a>
+<a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter Badge"></a>
+<a href="https://erhant.me"><img src="https://img.shields.io/badge/homepage-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
 <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/blog-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
 <a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/spotify-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
 <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="VSCode" />
 <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
 <img src="https://img.shields.io/badge/.vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
