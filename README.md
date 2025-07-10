@@ -2,10 +2,11 @@
 
 <!-- links -->
 <p align="center">
-<a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/twitter-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter Badge"></a>
-<a href="https://erhant.me"><img src="https://img.shields.io/badge/homepage-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
-<a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/blog-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
-<a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/spotify-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
+<a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter Badge"></a>
+<a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
+<a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/write-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
+<a href="https://www.goodreads.com/user/show/123323747-erhant"><img src="https://img.shields.io/badge/read-372213?style=flat-square&logo=goodreads&labelColor=372213&logoColor=white" alt="Goodreads"></a>
+<a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/listen-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 </p>
 
