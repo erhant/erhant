@@ -1,11 +1,13 @@
 <h3 align="center"><code>hello, friend.</code></h3>
 
-<!-- links -->
+<!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
 <p align="center">
 <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter Badge"></a>
 <a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
 <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/write-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to Blog Badge"></a>
 <a href="https://www.goodreads.com/user/show/123323747-erhant"><img src="https://img.shields.io/badge/read-372213?style=flat-square&logo=goodreads&labelColor=372213&logoColor=white" alt="Goodreads"></a>
+<a href="https://letterboxd.com/erhany/"><img src="https://img.shields.io/badge/watch-202830?style=flat-square&logo=letterboxd&labelColor=202830&logoColor=white" alt="Letterboxd"></a>
 <a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/listen-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS Domain Badge"></a>
 </p>
@@ -44,36 +46,44 @@
 </p>
 
 <details>
-<summary><h3>see more...</h3></summary>
-
-<h4>Stats</h4>
+<summary><h3>click to see stats & projects</h3></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
 
-<h4>Zero-Knowledge</h4>
+<h4> Cryptography & ZK </h4>
 
-[![circomkit](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=circomkit&theme=onedark)](https://github.com/erhant/circomkit)
+- [**circomkit**](https://github.com/erhant/circomkit): A testing & development environment for Circom.
+- [**circom101**](https://github.com/erhant/circom101): Circom arithmetic circuits and concepts explained, in depth.
+- [**zkbrainfuck**](https://github.com/erhant/zkbrainfuck): A Brainfuck zkVM with Circom, accompanied with a VM in Go.
+- [**halo2-vectordb**](https://github.com/erhant/halo2-vectordb): Verifiable vector similarity queries with Halo2.
+- [**aligned-vnns**](https://github.com/erhant/aligned-vnns): Verifiable nearest-neighbor search with Aligned Layer & SP1. 
+- [**polenta**](https://github.com/erhant/polenta): A toy language to play around with polynomials over finite fields.
+- [**arithmetic-circuits**](https://github.com/erhant/arithmetic-circuits): Moda Palas Blackboard Cryptography II - Arithmetic Circuits & R1CS
+- [**crypts**](https://github.com/erhant/crypts): A zero-dependency library for cryptography, mostly self-educational.
+- [**moonmath**](https://github.com/erhant/moonmath): Solutions to exercises from MoonMath Manual to zkSNARKs.
+- [**crypto-notes**](https://github.com/erhant/crypto-notes): My notes related to Cryptography & Zero-Knowledge.
+- [**lambda-0b10**](https://github.com/erhant/lambda-0b10): Lecture notes & exercises from Sparkling Water Bootcamp in Cryptography 0b10.
 
-[![halo2vectordb](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=halo2-vectordb&theme=onedark)](https://github.com/erhant/halo2-vectordb)
+<h4> Hackathons & Challenges </h4>
 
-[![zkbrainfuck](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=zkbrainfuck&theme=onedark)](https://github.com/erhant/zkbrainfuck)
+- [**huffd1**](https://github.com/erhant/huffd1): An NFT with Huff, using polynomials over a finite field with order largest prime address, instead of mappings.
+- [**chaintool**](https://github.com/erhant/chaintool): On-chain & dynamic toolchain for CDP AgentKit.
+- [**frencurve**](https://github.com/erhant/frencurve): A notion of friendship based on your location on the elliptic curve!
+- [**adventofts-2024**](https://github.com/erhant/adventofts-2024): Solutions to Advent of TypeScript 2024.
+- [**adventofts-2023**](https://github.com/erhant/adventofts-2023): Solutions to Advent of TypeScript 2023.
+- [**zkctf-scalebit**](https://github.com/erhant/zkctf-scalebit): Circom challenges within zkCTF by Scalebit, solved with Foundry & Circomkit.
+- [**ethernaut-evm-challenges**](https://github.com/erhant/ethernaut-evm-challenges): Solutions to Ethernaut, EVM Puzzles and More EVM Puzzles; using Foundry.
+- [**zkAargon**](https://github.com/erhant/zkAargon): A zero-knowledge remake of the 1998 game Aargon.
 
-[![moonmath](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=moonmath&theme=onedark)](https://github.com/erhant/moonmath)
+<h4> Others </h4>
 
-[![cryptopals](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=cryptopals&theme=onedark)](https://github.com/erhant/cryptopals)
-
-<h4>EVM & Solidity</h4>
-
-[![huffd1](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=huffd1&theme=onedark)](https://github.com/erhant/huffd1)
-
-[![blockchatting](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=blockchatting&theme=onedark)](https://github.com/erhant/blockchatting)
-
-[![simple-blockexplorer](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=simple-blockexplorer&theme=onedark)](https://github.com/erhant/simple-blockexplorer)
-
-[![ethernaut-evm-challenges](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=ethernaut-evm-challenges&theme=onedark)](https://github.com/erhant/ethernaut-evm-challenges)
-
-[![diamonds](https://github-readme-stats.vercel.app/api/pin/?username=erhant&repo=diamonds-with-typescript&theme=onedark)](https://github.com/erhant/diamonds-with-typescript)
+- [**web-terminal**](https://github.com/erhant/web-terminal): A terminal-based homepage.
+- [**leet-assistant**](https://github.com/erhant/leet-assistant): A personalized LeetCode assistant.
+- [**thuffscript**](https://github.com/erhant/thuffscript): Write Huff without ever leaving TypeScript.
+- [**blockchatting**](https://github.com/erhant/blockchatting): A decentralized peer-to-peer chatting application.
+- [**simple-blockexplorer**](https://github.com/erhant/simple-blockexplorer): A client-only EVM-based block-explorer via RPC calls.
+- [**pimp-my-peer**](https://github.com/erhant/pimp-my-peer): A libp2p peer identifier searcher to better identify yourself in the network.
 
 </details>
 
-<!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
