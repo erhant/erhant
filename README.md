@@ -58,7 +58,6 @@
 - [**halo2-vectordb**](https://github.com/erhant/halo2-vectordb): Verifiable vector similarity queries with Halo2.
 - [**aligned-vnns**](https://github.com/erhant/aligned-vnns): Verifiable nearest-neighbor search with Aligned Layer & SP1. 
 - [**polenta**](https://github.com/erhant/polenta): A toy language to play around with polynomials over finite fields.
-- [**arithmetic-circuits**](https://github.com/erhant/arithmetic-circuits): Moda Palas Blackboard Cryptography II - Arithmetic Circuits & R1CS
 - [**crypts**](https://github.com/erhant/crypts): A zero-dependency library for cryptography, mostly self-educational.
 - [**moonmath**](https://github.com/erhant/moonmath): Solutions to exercises from MoonMath Manual to zkSNARKs.
 - [**crypto-notes**](https://github.com/erhant/crypto-notes): My notes related to Cryptography & Zero-Knowledge.
@@ -75,6 +74,11 @@
 - [**ethernaut-evm-challenges**](https://github.com/erhant/ethernaut-evm-challenges): Solutions to Ethernaut, EVM Puzzles and More EVM Puzzles; using Foundry.
 - [**zkAargon**](https://github.com/erhant/zkAargon): A zero-knowledge remake of the 1998 game Aargon.
 
+<h4> Talks </h4>
+
+- [**arithmetic-circuits**](https://github.com/erhant/arithmetic-circuits): Moda Palas Blackboard Cryptography II - Arithmetic Circuits & R1CS
+- [**rustconnect-libp2p**](https://github.com/erhant/rustconnect-libp2p): Rust Connect #1 - Libp2p & FFI
+  
 <h4> Others </h4>
 
 - [**web-terminal**](https://github.com/erhant/web-terminal): A terminal-based homepage.
