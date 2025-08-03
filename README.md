@@ -72,7 +72,7 @@
 - [**adventofts-2023**](https://github.com/erhant/adventofts-2023): Solutions to Advent of TypeScript 2023.
 - [**zkctf-scalebit**](https://github.com/erhant/zkctf-scalebit): Circom challenges within zkCTF by Scalebit, solved with Foundry & Circomkit.
 - [**ethernaut-evm-challenges**](https://github.com/erhant/ethernaut-evm-challenges): Solutions to Ethernaut, EVM Puzzles and More EVM Puzzles; using Foundry.
-- [**zkAargon**](https://github.com/erhant/zkAargon): A zero-knowledge remake of the 1998 game Aargon.
+- [**zkAargon**](https://github.com/erhant/zkAargon): A zero-knowledge remake of the 1998 game [Aargon](https://www.mobygames.com/game/3980/aargon/).
 
 <h4> Talks </h4>
 
@@ -87,6 +87,13 @@
 - [**blockchatting**](https://github.com/erhant/blockchatting): A decentralized peer-to-peer chatting application.
 - [**simple-blockexplorer**](https://github.com/erhant/simple-blockexplorer): A client-only EVM-based block-explorer via RPC calls.
 - [**pimp-my-peer**](https://github.com/erhant/pimp-my-peer): A libp2p peer identifier searcher to better identify yourself in the network.
+- [**musical-plots**](https://github.com/erhant/musical-plots): Using matplotlib in the interest of music.
+- [**type-stacks**](https://github.com/erhant/type-stacks): Type-level stack operations.
+- [**eopl-scheme**](https://github.com/erhant/eopl-scheme): Scheme works from during my TAship.
+- [**orca-livecoding**](https://github.com/erhant/orca-livecoding): [Orca](https://github.com/hundredrabbits/Orca) Livecoding stuff.
+- [**lighthouse-problem**](https://github.com/erhant/lighthouse-problem): A particularly interesting geometry problem.
+- [**burning-castle**](https://github.com/erhant/burning_castle): Plots and codes for [OEIS A343275](https://oeis.org/A343275) and few other sequences.
+- [**bevy-breakout**](https://github.com/erhant/bevy-breakout): A breakout game using the [Bevy](https://bevy.org/) game engine.
 
 </details>
 
