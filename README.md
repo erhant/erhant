@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
 <img src="https://img.shields.io/badge/.vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
@@ -50,7 +51,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" />
 
-<h4> Cryptography & ZK </h4>
+<h4> cryptography & zero-knowledge </h4>
 
 - [**circomkit**](https://github.com/erhant/circomkit): A testing & development environment for Circom.
 - [**circom101**](https://github.com/erhant/circom101): Circom arithmetic circuits and concepts explained, in depth.
@@ -63,7 +64,7 @@
 - [**crypto-notes**](https://github.com/erhant/crypto-notes): My notes related to Cryptography & Zero-Knowledge.
 - [**lambda-0b10**](https://github.com/erhant/lambda-0b10): Lecture notes & exercises from Sparkling Water Bootcamp in Cryptography 0b10.
 
-<h4> Hackathons & Challenges </h4>
+<h4> hackathons & challenges </h4>
 
 - [**huffd1**](https://github.com/erhant/huffd1): An NFT with Huff, using polynomials over a finite field with order largest prime address, instead of mappings.
 - [**chaintool**](https://github.com/erhant/chaintool): On-chain & dynamic toolchain for CDP AgentKit.
@@ -74,12 +75,12 @@
 - [**ethernaut-evm-challenges**](https://github.com/erhant/ethernaut-evm-challenges): Solutions to Ethernaut, EVM Puzzles and More EVM Puzzles; using Foundry.
 - [**zkAargon**](https://github.com/erhant/zkAargon): A zero-knowledge remake of the 1998 game [Aargon](https://www.mobygames.com/game/3980/aargon/).
 
-<h4> Talks </h4>
+<h4> talks </h4>
 
 - [**arithmetic-circuits**](https://github.com/erhant/arithmetic-circuits): Moda Palas Blackboard Cryptography II - Arithmetic Circuits & R1CS
 - [**rustconnect-libp2p**](https://github.com/erhant/rustconnect-libp2p): Rust Connect #1 - Libp2p & FFI
   
-<h4> Others </h4>
+<h4> others </h4>
 
 - [**web-terminal**](https://github.com/erhant/web-terminal): A terminal-based homepage.
 - [**leet-assistant**](https://github.com/erhant/leet-assistant): A personalized LeetCode assistant.
