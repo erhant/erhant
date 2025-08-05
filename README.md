@@ -14,7 +14,7 @@
   <a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/listen-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <br/>
   <a href="https://www.npmjs.com/~erhant"><img src="https://img.shields.io/badge/.npm-CB3837?style=flat-square&labelColor=CB3837&logo=npm" alt="NPM"></a>
-  <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.cargo-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
+  <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.crate-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
 </p>
 
 <h4 align="center">https://github.com/erhant/erhant/labels/notes</h4>
