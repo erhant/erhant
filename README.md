@@ -2,7 +2,7 @@
 
 <!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-<h4 align="center">about</h4>
+<h4 align="center">https://github.com/erhant/erhant/labels/about</h4>
 <p align="center">
   <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter"></a>
   <a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
@@ -17,14 +17,14 @@
   <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.cargo-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
 </p>
 
-<h4 align="center">notes</h4>
+<h4 align="center">https://github.com/erhant/erhant/labels/notes</h4>
 <p align="center">
 <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="Cryptonotes"></a>
 <a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="Cryptonotes"></a>
 <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="Cryptonotes"></a>
 </p>
 
-<h4 align="center">main</h4>
+<h4 align="center">https://github.com/erhant/erhant/labels/main</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/CLAUDE.md-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-<h4 align="center">familiar</h4>
+<h4 align="center">https://github.com/erhant/erhant/labels/familiar</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/.huff-black?style=flat-square&logo=solidity&logoColor=white" alt="Huff" />
