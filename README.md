@@ -28,22 +28,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
   <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
   <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
-  <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
 <br/>
-  <img src="https://img.shields.io/badge/copilot%e2%80%93instructions.md-000000?style=flat-square&logo=github-copilot&logoColor=white" alt="Copilot" />
-  <img src="https://img.shields.io/badge/CLAUDE.md-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/.venv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="Uv" />
+  <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/.github-000000?style=flat-square&logo=github-copilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/.claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 <h4 align="center">https://github.com/erhant/erhant/labels/familiar</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/.huff-black?style=flat-square&logo=solidity&logoColor=white" alt="Huff" />
-  <img src="https://img.shields.io/badge/.go-black?style=flat-square&logo=go&logoColor=00ADD8" alt="Golang" />
+  <img src="https://img.shields.io/badge/.go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/.cu-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Cuda" />
   <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
