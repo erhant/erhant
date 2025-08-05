@@ -19,9 +19,9 @@
 
 <h4 align="center">https://github.com/erhant/erhant/labels/notes</h4>
 <p align="center">
-<a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="Cryptonotes"></a>
-<a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="Cryptonotes"></a>
-<a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="Cryptonotes"></a>
+  <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="Cryptonotes"></a>
+  <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="Cryptonotes"></a>
+  <a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="Cryptonotes"></a>
 </p>
 
 <h4 align="center">https://github.com/erhant/erhant/labels/main</h4>
