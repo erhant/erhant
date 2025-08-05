@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
   <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
   <img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 <br/>
   <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
