@@ -19,15 +19,16 @@
 
 <h4 align="center">https://github.com/erhant/erhant/labels/notes</h4>
 <p align="center">
-  <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="Cryptonotes"></a>
-  <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="Cryptonotes"></a>
-  <a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="Cryptonotes"></a>
+  <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="crypto.erhant.me"></a>
+  <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="circom.erhant.me"></a>
+  <a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="math.erhant.me"></a>
 </p>
 
 <h4 align="center">https://github.com/erhant/erhant/labels/main</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
@@ -47,12 +48,10 @@
   <img src="https://img.shields.io/badge/.go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/.cu-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Cuda" />
-  <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <br/>
   <img src="https://img.shields.io/badge/.tsx-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS" />
   <img src="https://img.shields.io/badge/.tsx-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" />
   <img src="https://img.shields.io/badge/.next-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/.vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/.tex-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/.typ-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst" />
   <img src="https://img.shields.io/badge/.xpi-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero" />
