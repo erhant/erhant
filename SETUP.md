@@ -26,3 +26,46 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Install Circom
 1. Setup GitHub SSH keys
 1. Download Ollama
+
+## Mac Mini Setup
+
+I have a Mac Mini that I had setup separately. Then, I've placed it alongside the router with an Ethernet connection, and nothing else (no keyboard / mouse / monitor). I have allowed <kbd>Settings > Sharing > Remote Login</kbd> and <kbd>Settings > Sharing > Screen Sharing</kbd> to connect to it via SSH and Screen Sharing if needed, via local network.
+
+I have SSH'ed into it, and did the following:
+
+### Setup Terminal
+
+```sh
+# install: https://github.com/gustavohellwig/gh-zsh
+sudo curl -fsSL https://raw.githubusercontent.com/gustavohellwig/gh-zsh/main/gh-zsh.sh | bash
+
+# restart terminal (-l replaces current one)
+exec zsh -l
+
+# configure powerlevel10k
+p10k configure
+```
+
+### Setup Brew
+
+```sh
+# install brew: https://brew.sh/
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# restart terminal
+exec zsh -l
+```
+
+### Setup Language Stuff
+
+```sh
+# python with Uv (https://docs.astral.sh/uv/getting-started/installation/)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# rust (https://rust-lang.org/tools/install/)
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+# typescript / javascript with Bun (https://bun.com/docs/installation)
+curl -fsSL https://bun.com/install | bash
+```
+
