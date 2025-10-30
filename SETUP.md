@@ -46,7 +46,7 @@ exec zsh -l
 p10k configure
 ```
 
-### Setup Brew
+### Setup Brew (and friends)
 
 ```sh
 # install brew: https://brew.sh/
@@ -54,6 +54,12 @@ p10k configure
 
 # restart terminal
 exec zsh -l
+
+# add btop for monitoring
+brew install btop
+
+# add neofetch because why not
+brew install neofetch
 ```
 
 ### Setup Language Stuff
@@ -69,3 +75,30 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 curl -fsSL https://bun.com/install | bash
 ```
 
+### Setup Git SSH
+
+```sh
+# https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+# generate new key
+ssh-keygen -t ed25519 -C "erhany96@gmail.com"
+
+# start agent
+eval "$(ssh-agent -s)"
+
+# open (or touch first if needed) config, and paste the code below:
+#
+# Host github.com
+#   AddKeysToAgent yes
+#   UseKeychain yes
+#   IdentityFile ~/.ssh/id_ed25519
+open ~/.ssh/config
+
+# add key
+ssh-add ~/.ssh/id_ed25519
+
+# https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+# get public key to clipboard (or just cat it)
+pbcopy < ~/.ssh/id_ed25519.pub
+
+# add it to your account at https://github.com/settings/keys
+```
