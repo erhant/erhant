@@ -1,15 +1,6 @@
 {
   "explorer.sortOrder": "type",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.format": true
-  },
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active",
-  "[solidity]": {
-    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
-  },
-  "emmet.showExpandedAbbreviation": "never"
+  "editor.guides.bracketPairs": "active"
 }

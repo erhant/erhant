@@ -1,0 +1,15 @@
+[package]
+name = "erhant"
+description = "My personal blog, hosted on docs.rs"
+version = "0.1.0"
+edition = "2024"
+repository = "https://github.com/erhant/rust"
+documentation = "https://docs.rs/erhant"
+
+[dependencies]
+doctored = "0.1.0"
+
+### will do some macro magic later
+# proc-macro2 = "1"
+# quote = "1"
+# syn = { version = "2", features = ["full"] }
