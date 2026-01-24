@@ -9,6 +9,7 @@
 ///   d\xi
 /// $$
 ///
+/// One day, we will be able to render Mermaid diagrams too:
 ///
 /// ```mmd
 /// sequenceDiagram
@@ -29,9 +30,9 @@
 ///
 /// ```rs
 /// blog_post! {
-///     title: "My First Post",
+///     post: my_first_post,
 ///     date: "2025-01-15",
-///     tags: ["rust", "meta"],
+///     tags: "rust, meta",
 ///     content: include_str!("posts/my-first-post.md")
 /// }
 /// ```
@@ -40,14 +41,14 @@ macro_rules! blog_post {
     (
         post: $post:ident,
         date: $date:expr,
-        tags: [$($tag:expr),* $(,)?],
+        tags: $tags:expr,
         content: $content:expr
     ) => {
         #[doctored::doctored] // use https://docs.rs/doctored/
         #[doc(highlight)] // add code higlighting via doctored
         #[doc = concat!("**Published:** ", $date)]
         #[doc = ""]
-        #[doc = concat!("**Tags:** ", $($tag, ", "),*)]
+        #[doc = concat!("**Tags:** ", $tags)]
         #[doc = ""]
         #[doc = "---"]
         #[doc = ""]

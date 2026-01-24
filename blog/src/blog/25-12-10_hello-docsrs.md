@@ -1,3 +1,8 @@
+<!--
+date: "2025-01-01"
+tags: [programming]
+-->
+
 # Docs-R-Us
 
 One day I woke up and decided that my blog should live on where my heart is, Rust docs, that is. So here we are, unashamedly piggy-backing [docs.rs](https://docs.rs).

@@ -1,3 +1,8 @@
+<!--
+date: "2023-01-24"
+tags: [programming, puzzles]
+-->
+
 # EVM Puzzles
 
 [EVM Puzzles](https://github.com/fvictorio/evm-puzzles/) are a collection of puzzles by [Franco Victorio](https://github.com/fvictorio). In this Markdown file, I wrote down the walkthrough for each of them.
