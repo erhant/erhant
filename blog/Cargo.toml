@@ -3,6 +3,7 @@ name = "erhant"
 description = "My personal blog, hosted on docs.rs"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 repository = "https://github.com/erhant/rust"
 documentation = "https://docs.rs/erhant"
 

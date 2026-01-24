@@ -1,6 +1,6 @@
 //! Blog
 //!
-//! Many of these are migrated from my old blog at https://dev.to/erhant.
+//! Many of these are migrated from my old blog at [dev.to/erhant](https://dev.to/erhant).
 
 use crate::blog_post;
 
