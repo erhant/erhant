@@ -1,0 +1,19 @@
+[package]
+name = "erhant"
+description = "My personal blog, hosted on docs.rs"
+version = "0.1.1"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/erhant/erhant/rust"
+documentation = "https://docs.rs/erhant"
+
+[package.metadata.docs.rs]
+rustdoc-args = ["--html-in-header", "katex-header.html"]
+
+[dependencies]
+doctored = "0.1.0"
+
+### will do some macro magic later
+# proc-macro2 = "1"
+# quote = "1"
+# syn = { version = "2", features = ["full"] }

@@ -6,6 +6,9 @@ I like Bun & use some aliases for quick commands, as below:
 ## json printer
 alias bunjson='bun -p "Bun.inspect(await Bun.stdin.json(), { colors: true })"'
 
+## json-parser & printer
+alias bunjsonparse='bun -p "Bun.inspect(JSON.parse(await Bun.stdin.text()), { colors: true })"'
+
 ## word counter
 alias bunwords='bun -p "(await Bun.stdin.text()).trim().split(/\s+/).filter(Boolean).length"'
 
