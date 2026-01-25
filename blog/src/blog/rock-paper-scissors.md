@@ -5,7 +5,7 @@ tags: [cryptography, math]
 
 # Rock-Paper-Scissors Over the Phone
 
-In this post, we will learn how we would play Rock-Paper-Scissors (RPS) over the phone! What do we mean by that?
+In this post, we will learn how we would play Rock-Paper-Scissors (RPS) over the phone. What do we mean by that?
 
 Well, the original game is played face-to-face, and "some body-language protocol" is used so that both players play their move at the same time. It is important that the moves are played in such a way, because otherwise you would simply play the countering move.
 
@@ -49,6 +49,24 @@ Now, here is how we will play the game:
 
 5. Players verify the hashes they have received by hashing the said move and numbers again; et viola, they have just played rock-paper-scissors asynchronously.
 
-![game-example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2uljhtb4mtftqnabqrg.PNG)
+```mermaid
+sequenceDiagram
+    actor Alice
+    actor Bob
+
+    note left of Alice: rock267
+    note right of Bob: paper119
+
+    note over Alice,Bob: both players calculate hash
+
+    Alice->>Bob: 0f9eb...8892
+    Bob->>Alice: a9b85...00da
+    Alice->>Bob: rock267
+    Bob->>Alice: paper119
+
+    note over Alice,Bob: both players verify hash
+
+    note right of Bob: Bob wins!
+```
 
 _This post was inspired from the paper by Manuel Blum's paper [Coin flipping by telephone](https://dl.acm.org/doi/10.1145/1008908.1008911)._

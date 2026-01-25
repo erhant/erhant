@@ -54,13 +54,9 @@ fn main() {
         let numbered_module_name = format!("n{}_{}", no + 1, post.module_name);
         let tags = post.tags.join(", ");
 
-        // generate the module definition directly (no macro needed)
+        // generate the module definition
         output.push_str(&format!(
-            r#"#[doctored::doctored]
-#[doc(highlight)]
-#[doc = "**Published:** {date} | **Tags:** {tags}"]
-#[doc = ""]
-#[doc = "---"]
+            r#"#[doc = "**Published:** {date} | _{tags}_"]
 #[doc = ""]
 #[doc = include_str!("{path}")]
 pub mod {name} {{}}

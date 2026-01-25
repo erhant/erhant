@@ -1,0 +1,110 @@
+<!-- code highlights via highlight.js -->
+<style type="text/css">
+  /* inspired from: https://github.com/michaelni678/doctored */
+  .hljs {
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+  }
+
+  .hljs-keyword,
+  .hljs-section {
+    color: var(--code-highlight-kw-color);
+  }
+
+  .hljs-type {
+    color: var(--code-highlight-kw-2-color);
+  }
+
+  .hljs-string,
+  .hlhs-regexp {
+    color: var(--code-highlight-string-color);
+  }
+
+  .hljs-number {
+    color: var(--code-highlight-number-color);
+  }
+
+  .hljs-literal {
+    color: var(--code-highlight-literal-color);
+  }
+
+  .hljs-subst {
+    color: color-mix(in srgb,
+        var(--code-highlight-string-color) 30%,
+        var(--code-highlight-macro-color) 70%);
+  }
+
+  .hljs-name,
+  .hljs-tag,
+  .hljs-attr,
+  .hljs-attribute {
+    color: var(--code-highlight-self-color);
+  }
+
+  .hljs-built_in {
+    color: var(--code-highlight-prelude-color);
+  }
+
+  .hljs-symbol,
+  .hljs-bullet {
+    color: var(--code-highlight-question-mark-color);
+  }
+
+  .hljs-comment {
+    color: var(--code-highlight-comment-color);
+  }
+
+  .hljs-quote,
+  .hljs-doctag {
+    color: var(--code-highlight-doc-comment-color);
+  }
+
+  .hljs-addition {
+    color: color-mix(in oklab, var(--main-color) 40%, limegreen);
+    background-color: var(--main-background-color);
+  }
+
+  .hljs-deletion {
+    color: color-mix(in oklab, var(--main-color) 40%, crimson);
+    background-color: var(--main-background-color);
+  }
+
+  .hljs-emphasis {
+    font-style: italic;
+  }
+
+  .hljs-strong {
+    font-weight: bold;
+  }
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/typescript.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/python.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/javascript.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/rust.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/c.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/makefile.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/highlightjs-solidity@2.0.6/dist/solidity.min.js"></script>
+<script type="text/javascript">hljs.highlightAll();</script>
+
+<!-- katex support -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"
+  integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous" />
+<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js"
+  integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "$", right: "$", display: false },
+        { left: "\\[", right: "\\]", display: true },
+      ],
+    });
+  });
+</script>

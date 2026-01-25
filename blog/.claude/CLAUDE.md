@@ -51,8 +51,6 @@ HTML comments are used so the frontmatter is hidden in rendered docs.
 The build script generates `blog_posts.rs` in `OUT_DIR` with module definitions:
 
 ```rust
-#[doctored::doctored]
-#[doc(highlight)]
 #[doc = "**Published:** 2025-01-01 | **Tags:** rust, meta"]
 #[doc = ""]
 #[doc = "---"]
@@ -69,7 +67,7 @@ Posts are numbered `n1_`, `n2_`, etc. (newest first) for proper sorting on docs.
 blog/
 ├── build.rs              # All the magic: parse, transform, generate
 ├── Cargo.toml            # Package config (edition 2024, MIT license)
-├── katex-header.html     # KaTeX header for math rendering on docs.rs
+├── styleheader.html     # KaTeX header for math rendering & code highlighting for docs.rs
 ├── src/
 │   ├── lib.rs            # Crate root, exports `about` and `blog` modules
 │   ├── about/
@@ -91,24 +89,20 @@ The build script handles everything:
 - Scans `src/blog/*.md` for posts
 - Parses HTML-commented frontmatter (`<!-- ... -->`) or legacy `---` delimiters
 - Extracts `date`, `tags`, and optional `post` (module name)
-- Transforms ```` ```mermaid ```` code blocks into HTML with Mermaid.js CDN
+- Transforms ` ```mermaid ` code blocks into HTML with Mermaid.js CDN
 - Sorts posts by date descending (newest first)
 - Generates numbered module names (`n1_`, `n2_`, ...) for docs.rs ordering
 - Writes transformed markdown to `OUT_DIR`
 - Outputs `blog_posts.rs` with full module definitions
 
-### Dependencies
-
-- `doctored = "0.1.0"` - Code highlighting in rustdoc
-
 ### docs.rs Configuration
 
-- Custom rustdoc args include `katex-header.html` for LaTeX math rendering
+- Custom rustdoc args include `styleheader.html` for KaTeX math rendering & code highlighting
 
 ## Development Notes
 
 - **Adding posts**: Create `src/blog/YY-MM-DD_slug.md` with frontmatter, then `cargo build`
-- **Mermaid diagrams**: Use ```` ```mermaid ```` code blocks - transformed automatically
+- **Mermaid diagrams**: Use ` ```mermaid ` code blocks - transformed automatically
 - **Naming**: Module names derived from filename slug (hyphens → underscores)
 - **Ordering**: Numeric prefixes ensure newest posts appear first on docs.rs
 - **Publishing**: `cargo publish` pushes to crates.io, docs.rs builds automatically

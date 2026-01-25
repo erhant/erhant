@@ -1,4 +1,4 @@
-//! Blog
+//! My blog posts
 //!
 //! Pre-2026 blogs are migrated from my old blog at [dev.to/erhant](https://dev.to/erhant).
 

@@ -1,6 +1,6 @@
 <!--
 date: "2026-01-25"
-tags: [rust, meta]
+tags: [rust]
 -->
 
 # Blogging on docs.rs
@@ -66,8 +66,6 @@ When you run `cargo build`, `build.rs` does all the heavy lifting:
 The build script generates Rust code like this directly:
 
 ```rust
-#[doctored::doctored]
-#[doc(highlight)]
 #[doc = "**Published:** 2025-01-01 | **Tags:** rust, meta"]
 #[doc = ""]
 #[doc = "---"]
@@ -76,7 +74,7 @@ The build script generates Rust code like this directly:
 pub mod n1_hello_docsrs {}
 ```
 
-The numbering (`n1_`, `n2_`, ...) ensures docs.rs displays posts in reverse chronological order. The `doctored` crate adds syntax highlighting, and a custom header enables KaTeX for math like $e^{i\pi} + 1 = 0$.
+The numbering (`n1_`, `n2_`, ...) ensures docs.rs displays posts in reverse chronological order. A custom header enables KaTeX for math like $e^{i\pi} + 1 = 0$ and enables syntax highlighting for a variety of languages, including Solidity.
 
 ### Adding a New Post
 

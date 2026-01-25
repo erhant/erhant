@@ -1,6 +1,6 @@
 <!--
 date: "2023-01-24"
-tags: [programming, puzzles]
+tags: [ethereum, puzzles]
 -->
 
 # EVM Puzzles
