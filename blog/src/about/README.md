@@ -1,28 +1,30 @@
 <h3 align="center"><code>hello, friend.</code></h3>
 
-<h4 align="center">about</h4>
+<!-- logos at https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
+<h5 align="center">about</h5>
 <p align="center">
   <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter"></a>
   <a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
   <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/erhant.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS"></a>
 <br/>
-  <a href="https://dev.to/erhant"><img src="https://img.shields.io/badge/write-1B1C1E?style=flat-square&logo=devdotto&labelColor=1B1C1E&logoColor=white" alt="Dev.to"></a>
+  <a href="https://docs.rs/erhant"><img src="https://img.shields.io/badge/write-000000?style=flat-square&logo=docs.rs&labelColor=000000&logoColor=white" alt="Dev.to"></a>
   <a href="https://www.goodreads.com/user/show/123323747-erhant"><img src="https://img.shields.io/badge/read-372213?style=flat-square&logo=goodreads&labelColor=372213&logoColor=white" alt="Goodreads"></a>
   <a href="https://letterboxd.com/erhany/"><img src="https://img.shields.io/badge/watch-202830?style=flat-square&logo=letterboxd&labelColor=202830&logoColor=white" alt="Letterboxd"></a>
   <a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/listen-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
 <br/>
   <a href="https://www.npmjs.com/~erhant"><img src="https://img.shields.io/badge/.npm-CB3837?style=flat-square&labelColor=CB3837&logo=npm" alt="NPM"></a>
-  <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.crate-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
+  <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.cargo-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
 </p>
 
-<h4 align="center">notes</h4>
+<h5 align="center">notes</h5>
 <p align="center">
   <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="crypto.erhant.me"></a>
   <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="circom.erhant.me"></a>
   <a href="https://math.erhant.me"><img src="https://img.shields.io/badge/math-111111?style=flat-square&logo=mdbook&labelColor=111111&logoColor=white" alt="math.erhant.me"></a>
 </p>
 
-<h4 align="center">main</h4>
+<h5 align="center">main</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -39,7 +41,7 @@
   <img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 </p>
 
-<h4 align="center">familiar</h4>
+<h5 align="center">familiar</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/.sol-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/.huff-black?style=flat-square&logo=solidity&logoColor=white" alt="Huff" />
@@ -54,6 +56,8 @@
   <img src="https://img.shields.io/badge/.typ-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst" />
   <img src="https://img.shields.io/badge/.xpi-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero" />
 </p>
+
+---
 
 <details>
 <summary><h3>click to see stats & projects</h3></summary>
