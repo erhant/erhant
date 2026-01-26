@@ -23,6 +23,6 @@ versions:
 
 .PHONY: update-about
 update-about:
-	@cp ../README.md src/ABOUT.md
-	@sed -i '' 's|https://github.com/erhant/erhant/labels/||g' src/ABOUT.md
-	@echo "Copied and updated ABOUT.md"
+	@cp ../README.md README.md
+	@sed -i '' 's|https://github.com/erhant/erhant/labels/||g' README.md
+	@echo "Copied and updated README.md"
