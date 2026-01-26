@@ -1,6 +1,8 @@
 <!--
 date: "2023-01-08"
 tags: [ethereum, puzzles]
+title: "QuillCTF"
+summary: "Solutions to QuillCTF smart contract security challenges."
 -->
 
 # QuillCTF

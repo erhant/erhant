@@ -1,6 +1,8 @@
 <!--
 date: "2026-01-25"
 tags: [rust]
+title: "docs-r-us"
+summary: "How this blog is hosted on docs.rs using Rust docstrings."
 -->
 
 # Blogging on docs.rs
@@ -33,12 +35,13 @@ flowchart TD
         PARSE["Parse frontmatter"]
         SORT["Sort by date"]
         MERMAID["Transform mermaid blocks"]
-        GEN["Generate module definitions"]
+        GEN["Generate modules & TOC"]
     end
 
     subgraph out["OUT_DIR"]
         TRANSFORMED["Transformed *.md"]
         BLOGPOSTS["blog_posts.rs"]
+        TOC["blog_toc.md"]
     end
 
     subgraph output["Output"]
@@ -49,8 +52,9 @@ flowchart TD
     SCAN --> PARSE --> SORT --> MERMAID --> GEN
     MERMAID --> TRANSFORMED
     GEN --> BLOGPOSTS
+    GEN --> TOC
     TRANSFORMED -.-> BLOGPOSTS
-    BLOGPOSTS --> DOCSRS
+    BLOGPOSTS & TOC --> DOCSRS
 ```
 
 ### The Build Script
@@ -58,23 +62,22 @@ flowchart TD
 When you run `cargo build`, `build.rs` does all the heavy lifting:
 
 1. **Scans** `src/blog/` for markdown files
-2. **Parses** HTML-commented frontmatter for metadata (date, tags)
+2. **Parses** HTML-commented frontmatter for metadata (date, title, tags, summary)
 3. **Sorts** posts by date, newest first
 4. **Transforms** mermaid code blocks into HTML with Mermaid.js
-5. **Generates** `blog_posts.rs` with full module definitions
+5. **Generates** `blog_posts.rs` with module definitions
+6. **Generates** `blog_toc.md` with a table of contents (titles linked to posts, with summaries)
 
 The build script generates Rust code like this directly:
 
 ```rust
-#[doc = "**Published:** 2025-01-01 | **Tags:** rust, meta"]
-#[doc = ""]
-#[doc = "---"]
+#[doc = "**Published:** 2025-01-01 | _rust_"]
 #[doc = ""]
 #[doc = include_str!("/path/to/transformed/post.md")]
-pub mod n1_hello_docsrs {}
+pub mod hello_docsrs {}
 ```
 
-The numbering (`n1_`, `n2_`, ...) ensures docs.rs displays posts in reverse chronological order. A custom header enables KaTeX for math like $e^{i\pi} + 1 = 0$ and enables syntax highlighting for a variety of languages, including Solidity.
+A custom header enables KaTeX for math like $e^{i\pi} + 1 = 0$ and syntax highlighting for a variety of languages, including Solidity.
 
 ### Adding a New Post
 
@@ -84,6 +87,8 @@ The numbering (`n1_`, `n2_`, ...) ensures docs.rs displays posts in reverse chro
    <!--
    date: "YYYY-MM-DD"
    tags: [tag1, tag2]
+   title: "Your Post Title"
+   summary: "A brief one-sentence summary."
    -->
    ```
 3. Write your content (mermaid diagrams just work)

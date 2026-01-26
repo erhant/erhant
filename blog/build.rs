@@ -46,12 +46,21 @@ fn main() {
     // sort by date descending (newest first)
     posts.sort_by(|a, b| b.0.date.cmp(&a.0.date));
 
+    // generate table of contents markdown file
+    let toc_path = out_path.join("blog_toc.md");
+    let mut toc = String::new();
+    for (post, _) in posts.iter() {
+        toc.push_str(&format!(
+            "- **{}** [{}]({})  — {}\n",
+            post.date, post.title, post.module_name, post.summary
+        ));
+    }
+    fs::write(&toc_path, &toc).expect("Failed to write blog_toc.md");
+
     // generate output with numbered prefixes (1 = newest)
     let mut output = String::new();
-    for (no, (post, transformed_path)) in posts.iter().enumerate() {
-        // prefix module name with number for reverse-chronological sorting on docs.rs
-        // use 'n' prefix since identifiers can't start with digits
-        let numbered_module_name = format!("n{}_{}", no + 1, post.module_name);
+
+    for (post, transformed_path) in posts.iter() {
         let tags = post.tags.join(", ");
 
         // generate the module definition
@@ -65,7 +74,7 @@ pub mod {name} {{}}
             date = post.date,
             tags = tags,
             path = transformed_path.display(),
-            name = numbered_module_name,
+            name = post.module_name,
         ));
     }
 
@@ -81,8 +90,10 @@ pub mod {name} {{}}
 
 struct BlogPost {
     module_name: String,
+    title: String,
     date: String,
     tags: Vec<String>,
+    summary: String,
 }
 
 fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
@@ -106,6 +117,8 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
     let mut date = None;
     let mut tags = None;
     let mut module_name = None;
+    let mut title = None;
+    let mut summary = None;
 
     for line in frontmatter.lines() {
         let line = line.trim();
@@ -130,11 +143,18 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
             }
         } else if let Some(value) = line.strip_prefix("post:") {
             module_name = Some(value.trim().trim_matches('"').to_string());
+        } else if let Some(value) = line.strip_prefix("title:") {
+            title = Some(value.trim().trim_matches('"').to_string());
+        } else if let Some(value) = line.strip_prefix("summary:") {
+            summary = Some(value.trim().trim_matches('"').to_string());
         }
     }
 
     let date = date.unwrap_or_else(|| panic!("{}: missing 'date' in frontmatter", filename));
     let tags = tags.unwrap_or_else(|| panic!("{}: missing 'tags' in frontmatter", filename));
+    let title = title.unwrap_or_else(|| panic!("{}: missing 'title' in frontmatter", filename));
+    let summary =
+        summary.unwrap_or_else(|| panic!("{}: missing 'summary' in frontmatter", filename));
 
     // derive module name from filename if not specified
     // e.g., "22-01-01_euclid-mullin.md" -> "euclid_mullin"
@@ -152,8 +172,10 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
 
     BlogPost {
         module_name,
+        title,
         date,
         tags,
+        summary,
     }
 }
 

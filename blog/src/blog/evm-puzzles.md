@@ -1,6 +1,8 @@
 <!--
 date: "2023-01-24"
 tags: [ethereum, puzzles]
+title: "EVM Puzzles"
+summary: "Walkthrough solutions for learning EVM bytecode through puzzles."
 -->
 
 # EVM Puzzles

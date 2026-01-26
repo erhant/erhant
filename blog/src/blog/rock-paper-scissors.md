@@ -1,6 +1,8 @@
 <!--
 date: "2022-10-17"
 tags: [cryptography, math]
+title: "Rock-Paper-Scissors Over the Phone"
+summary: "Using hash functions to play RPS asynchronously via commit-reveal."
 -->
 
 # Rock-Paper-Scissors Over the Phone

@@ -1,6 +1,8 @@
 <!--
 date: "2022-01-01"
 tags: [math]
+title: "Euclid-Mullin Sequence"
+summary: "A prime sequence derived from Euclid's proof of infinite primes."
 -->
 
 # Euclid-Mullin Sequence
