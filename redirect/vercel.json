@@ -6,6 +6,11 @@
       "permanent": false
     },
     {
+      "source": "/",
+      "destination": "https://docs.rs/erhant/latest/erhant/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://docs.rs/erhant/latest/erhant/:path*",
       "permanent": true
