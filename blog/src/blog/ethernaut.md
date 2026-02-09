@@ -13,9 +13,7 @@ This post has all the solutions at the time of me solving them, so it is missing
 
 For the problems here, I also [have a repo](https://github.com/erhant/ethernaut-evm-challenges) that can solve them on-chain & replicate them locally. Check that out if you want to dive deeper into the code, and get your hands dirty with [Foundry](https://getfoundry.sh/) too.
 
-## 0. Hello Ethernaut
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x4E73b858fD5D7A5fc1c3455061dE52a53F35d966)
+## 0. [Hello Ethernaut](https://ethernaut.openzeppelin.com/level/0)
 
 Welcome! It is going to be a long but immensely educational road. This level prepares you on how to use the console. Start by typing `help()`. Get comfortable with the commands you see there. You will need some test ether too, so please do visit the faucets linked there and get some ether.
 
@@ -51,9 +49,7 @@ Welcome! It is going to be a long but immensely educational road. This level pre
 
 Once that is mined, we seem to have nothing more to do. As the next natural thing to do, we may as well submit our instance (the orange button). Indeed, that is the end of the level! Congratulations, you are now ready for the real deal.
 
-## 1. Fallback
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x9CB391dbcD447E645D6Cb55dE6ca23164130D008)
+## 1. [Fallback](https://ethernaut.openzeppelin.com/level/1)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -128,9 +124,7 @@ await contract.owner();
 await contract.withdraw();
 ```
 
-## 2. Fallout
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x5732B2F88cbd19B6f01E3a96e9f0D90B917281E5)
+## 2. [Fallout](https://ethernaut.openzeppelin.com/level/2)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -181,9 +175,7 @@ Prior to the `constructor` function, the constructor was used as the function th
 
 This actually happened to [Rubixi](https://github.com/crytic/not-so-smart-contracts/tree/master/wrong_constructor_name). The author initially used DynamicPyramid as the contract name, and therefore the constructor. Later, he only changed the contract name to Rubixi and forgot the DynamicPyramid constructor as is, effectively leaving it up for grabs. Someone did grab eventually.
 
-## 3. Coinflip
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x4dF32584890A0026e56f7535d0f2C6486753624f)
+## 3. [Coinflip](https://ethernaut.openzeppelin.com/level/3)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -260,7 +252,7 @@ contract Attacker {
 
 That is pretty much it!
 
-## 4. Telephone
+## 4. [Telephone](https://ethernaut.openzeppelin.com/level/4)
 
 [Play the level](https://ethernaut.openzeppelin.com/level/0x0b6F6CE4BCfB70525A31454292017F640C10c768)
 
@@ -307,7 +299,7 @@ contract Attacker {
 }
 ```
 
-## 5. Token
+## 5. [Token](https://ethernaut.openzeppelin.com/level/5)
 
 [Play the level](https://ethernaut.openzeppelin.com/level/0x63bE8347A617476CA461649897238A31835a32CE)
 
@@ -356,9 +348,7 @@ Once this transaction is mined, we are basically rich in whatever this token is 
 
 If you REALLY worry about burning tokens, just create a contract and transfer there instead!
 
-## 6. Delegation
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x9451961b7Aea1Df57bc20CC68D72f662241b5493)
+## 6. [Delegation](https://ethernaut.openzeppelin.com/level/6)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -423,9 +413,7 @@ The actual exploit has to do with storage. Notice that both contracts have `addr
 
 The storage variable assignment within `pwn` therefore effects the contract which made `delegatecall`, and we become the owner.
 
-## 7. Force
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x22699e6AdD7159C3C385bf4d7e1C647ddB3a99ea)
+## 7. [Force](https://ethernaut.openzeppelin.com/level/7)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -459,9 +447,7 @@ contract Attacker {
 
 That is all about this one!
 
-## 8. Vault
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xf94b476063B6379A3c8b6C836efB8B3e10eDe188)
+## 8. [Vault](https://ethernaut.openzeppelin.com/level/8)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -496,9 +482,7 @@ await web3.eth.getStorageAt(contract.address, 1);
 
 and simply give the result as the parameter to `contract.unlock(...)`.
 
-## 9. King
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x43BA674B4fbb8B157b7441C2187bCdD2cdF84FD5)
+## 9. [King](https://ethernaut.openzeppelin.com/level/9)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -557,9 +541,7 @@ The contract is simple: a forward function forwards our sent money to some addre
 
 **A note on Call vs. Transfer**: We used `_to.call{value: msg.value}("")` instead of `_to.transfer(msg.value)`. This is because `transfer` sends 2300 gas to the receiver, but that gas may not always be enough for the code to run on their side; so we must forward all our gas to them with `call`.
 
-## 10. Reentrancy
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xe6BA07257a9321e755184FB2F995e0600E78c16D)
+## 10. [Reentrancy](https://ethernaut.openzeppelin.com/level/10)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -657,9 +639,7 @@ contract Attacker {
 
 This is how "The DAO" hack was executed, which resulted in the creation of Ethereum Classic; pretty mind-blowing to think just the misplacement of two lines caused a million-dollar hack!
 
-## 11. Elevator
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xaB4F3F2644060b2D960b0d88F0a42d1D27484687)
+## 11. [Elevator](https://ethernaut.openzeppelin.com/level/11)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -711,9 +691,7 @@ contract Building {
 
 The problem here is that Elevator did not specify `isLastFloor` to be a `view` function, which would prevent us from modifying the state like this. Another attack approach would be to return different results depending on the input data _without_ modifying state, such as via `gasLeft()`.
 
-## 12. Privacy
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x11343d543778213221516D004ED82C45C3c8788B)
+## 12. [Privacy](https://ethernaut.openzeppelin.com/level/12)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -778,9 +756,7 @@ Now we just need `data[2]` casted down to `bytes16`. Here is how casting works i
 
 So, when we cast down `data[2]` we will get the left-half of it: `'0x46b7d5d54e84dc3ac47f57bea2ca5f79c04dadf65d3a0f3581dcad259f9480cf'.slice(0, 2 + 32)` and then `await contract.unlock('0x46b7d5d54e84dc3ac47f57bea2ca5f79')`. That is all! Here is a good article on reading storage: <https://medium.com/@dariusdev/how-to-read-ethereum-contract-storage-44252c8af925>.
 
-## 13. Gatekeeper One
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x9b261b23cE149422DE75907C6ac0C30cEc4e652A)
+## 13. [Gatekeeper One](https://ethernaut.openzeppelin.com/level/13)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -880,9 +856,7 @@ So, my `uint16(tx.origin)` is `C274`; and I will just set `AB = 0x 0000 0001` to
 
 That is all folks :)
 
-## 14. Gatekeeper Two
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xdCeA38B2ce1768E1F409B6C65344E81F16bEc38d)
+## 14. [Gatekeeper Two](https://ethernaut.openzeppelin.com/level/14)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -965,9 +939,7 @@ bytes8 key = bytes8(type(uint64).max ^ uint64(bytes8(keccak256(abi.encodePacked(
 
 That is all for this one!
 
-## 15. Naught Coin
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x096bb5e93a204BfD701502EB6EF266a950217218)
+## 15. [Naught Coin](https://ethernaut.openzeppelin.com/level/15)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1029,9 +1001,7 @@ contract NaughtWithdraw {
 
 Then, we simply approve all our tokens to this address, and call `withdrawFrom` there with the respective parameters.
 
-## 16. Preservation
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x97E982a15FbB1C28F6B8ee971BEc15C78b3d263F)
+## 16. [Preservation](https://ethernaut.openzeppelin.com/level/16)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1083,9 +1053,7 @@ Here we are in the hands of the almighty `delegatecall`. The given contract actu
 
 A good takeaway from this level, quoting the author's message: "This example demonstrates why the library keyword should be used for building libraries, as it prevents the libraries from storing and accessing state variables."
 
-## 17. Recovery
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x0EB8e4771ABA41B70d0cb6770e04086E5aee5aB2)
+## 17. [Recovery](https://ethernaut.openzeppelin.com/level/17)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1133,7 +1101,7 @@ contract SimpleToken {
 
 My initial solution was to check the internal transactions of the contract creation transaction of my level instance. There, we can very well see the "lost" contract address, and we will call the `destroy` function there. To call a function with arguments, you need to provide a `calldata` (see [here](https://docs.soliditylang.org/en/latest/abi-spec.html#examples)). The arguments are given in chunks of 32-bytes, but the first 4 bytes of the `calldata` indicate the function to be called. That is calculated by the first 4 bytes of the function's canonical form. There are several ways to find it:
 
-- Use a tool online, such as the [one I wrote](https://www.erhant.me/tools/ethertools).
+- Use a tool online.
 - Write a bit of Solidity code and calculate `bytes4(keccak256("destory(address)"))`, which requires you to hand-write the canonical form.
 - Write a small contract and run it locally (such as Remix IDE with VM) as follows:
 
@@ -1207,9 +1175,7 @@ web3.utils.soliditySha3(
 
 What is different with `soliditySha3` rather than `sha3` is that this one will encode-packed the parameters like Solidity would; hashing afterwards. The last 20 bytes of the resulting digest will be the contract address! Calling the `destroy` function is same as above.
 
-## 18. Magic Number
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x200d3d9Ac7bFd556057224e7aEB4161fED5608D0)
+## 18. [Magic Number](https://ethernaut.openzeppelin.com/level/18)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1315,9 +1281,7 @@ await web3.eth.sendTransaction({
 
 The returned object in console will have a `contractAddress` if everything goes well. You can confirm that the bytecode is correct by checking it on <https://rinkeby.etherscan.io/>, and look at the opcodes by clicking "Switch To Opcodes View" button under the "Contract" tab. Afterwards, just set the solver to this contract address and submit!
 
-## 19. Alien Codex
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xda5b3Fb76C78b6EdEE6BE8F11a1c31EcfB02b272)
+## 19. [Alien Codex](https://ethernaut.openzeppelin.com/level/19)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1395,9 +1359,7 @@ await contract.revise(
 
 Note that you can't set the array length property since version 0.6.0, thankfully! See <https://ethereum.stackexchange.com/a/84130>.
 
-## 20. Denial
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xf1D573178225513eDAA795bE9206f7E311EeDEc3)
+## 20. [Denial](https://ethernaut.openzeppelin.com/level/20)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1452,9 +1414,7 @@ contract BadPartner {
 
 We then set the withdrawal partner as this contract address, and we are done. Note that `call` can use at most 63/64 of the remaining gas (see [EIP-150](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-150.md)). If 1/64 of the gas is enough to finish the rest of the stuff, you are good. To be safe though, just specify the amount of gas to forward.
 
-## 21. Shop
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x3aCd4766f1769940cA010a907b3C8dEbCe0bd4aB)
+## 21. [Shop](https://ethernaut.openzeppelin.com/level/21)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1514,9 +1474,7 @@ contract BadBuyer is Buyer {
 }
 ```
 
-## 22. Dex One
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xC084FC117324D7C628dBC41F17CAcAaF4765f49e)
+## 22. [Dex One](https://ethernaut.openzeppelin.com/level/22)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1793,9 +1751,7 @@ async function pwn(maxiters = 10) {
 
 Once you run the function above, it will take a series of transactions (your console will be quite colorful) to complete but in the end, DEX will have depleted one of the tokens! To confirm, you may run the 4 lines at the beginning of this post to check the balances.
 
-## 23. Dex Two
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x5026Ff8C97303951c255D3a7FDCd5a1d0EF4a81a)
+## 23. [Dex Two](https://ethernaut.openzeppelin.com/level/23)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -1912,9 +1868,7 @@ To confirm the depletion, check the balances:
   .toNumber();
 ```
 
-## 24. Puzzle Wallet
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0xe13a4a46C346154C41360AAe7f070943F67743c9)
+## 24. [Puzzle Wallet](https://ethernaut.openzeppelin.com/level/24)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -2124,9 +2078,7 @@ await contract.setMaxBalance(web3.utils.hexToNumberString(player));
 await web3.eth.getStorageAt(contract.address, 1);
 ```
 
-## 25. Motorbike
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x58Ab506795EC0D3bFAE4448122afa4cDE51cfdd2)
+## 25. [Motorbike](https://ethernaut.openzeppelin.com/level/25)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -2316,9 +2268,7 @@ We are sending this transaction to Engine instead of Motorbike, because the Engi
 
 What `selfdestruct` within the `newImplementation` achieves here is that it actually destroys the calling Engine, not the Pwner contract! This is again because a `delegatecall` is used. If we check the Engine contract address with block explorer, we will see that it did indeed `selfdestruct`.
 
-## 26. Double Entry Point
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x128BA32Ec698610f2fF8f010A7b74f9985a6D17c)
+## 26. [Double Entry Point](https://ethernaut.openzeppelin.com/level/26)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -2698,9 +2648,7 @@ A total of 100 bytes, which is `0x64` in hex. So, in the calldata of `handleTran
 
 At the table above we saw that the position of `msgData` length is at `0x44`. That includes the function signature of `handleTransaction`, so after ignoring it we get the offset value `0x40`.
 
-## 27. Good Samaritan
-
-[Play the level](https://ethernaut.openzeppelin.com/level/0x000Fa85A0a533C3221ecf8Ab4D598b34B48B22Fd)
+## 27. [Good Samaritan](https://ethernaut.openzeppelin.com/level/27)
 
 ```solidity
 // SPDX-License-Identifier: MIT

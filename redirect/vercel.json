@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/cv",
+      "destination": "https://docs.google.com/document/d/12aN3NiXcbnjKm69XRIGSDtMP_aXGtaIOc9dcTFUD6N0/",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://docs.rs/erhant/latest/erhant/:path*",
+      "permanent": true
+    }
+  ]
+}
