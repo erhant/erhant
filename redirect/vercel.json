@@ -2,6 +2,11 @@
   "redirects": [
     {
       "source": "/cv",
+      "destination": "https://docs.google.com/document/d/12aN3NiXcbnjKm69XRIGSDtMP_aXGtaIOc9dcTFUD6N0/export?format=pdf",
+      "permanent": false
+    },
+    {
+      "source": "/cvdoc",
       "destination": "https://docs.google.com/document/d/12aN3NiXcbnjKm69XRIGSDtMP_aXGtaIOc9dcTFUD6N0/",
       "permanent": false
     },
