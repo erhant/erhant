@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/cv",
-      "destination": "https://docs.google.com/document/d/12aN3NiXcbnjKm69XRIGSDtMP_aXGtaIOc9dcTFUD6N0/export?format=pdf",
+      "destination": "https://docs.google.com/document/d/12aN3NiXcbnjKm69XRIGSDtMP_aXGtaIOc9dcTFUD6N0/export?format=pdf&tab=t.0",
       "permanent": false
     },
     {
