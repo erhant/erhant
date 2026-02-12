@@ -43,6 +43,9 @@ fn main() {
         })
         .collect();
 
+    // remove work-in-progress posts
+    posts.retain(|p| !p.0.wip);
+
     // sort by date descending (newest first)
     posts.sort_by(|a, b| b.0.date.cmp(&a.0.date));
 
@@ -78,7 +81,9 @@ pub mod {name} {{}}
         ));
     }
 
-    // tell Cargo to rerun if any md file changes
+    // tell Cargo to rerun if the blog directory changes (new/removed/renamed files)
+    println!("cargo::rerun-if-changed={}", blog_dir.display());
+    // also rerun if any individual md file changes (content edits)
     for entry in &md_files {
         println!("cargo::rerun-if-changed={}", entry.path().display());
     }
@@ -94,6 +99,7 @@ struct BlogPost {
     date: String,
     tags: Vec<String>,
     summary: String,
+    wip: bool,
 }
 
 fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
@@ -119,6 +125,7 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
     let mut module_name = None;
     let mut title = None;
     let mut summary = None;
+    let mut wip = false;
 
     for line in frontmatter.lines() {
         let line = line.trim();
@@ -147,6 +154,8 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
             title = Some(value.trim().trim_matches('"').to_string());
         } else if let Some(value) = line.strip_prefix("summary:") {
             summary = Some(value.trim().trim_matches('"').to_string());
+        } else if let Some(value) = line.strip_prefix("wip:") {
+            wip = value.trim() == "true";
         }
     }
 
@@ -157,17 +166,11 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
         summary.unwrap_or_else(|| panic!("{}: missing 'summary' in frontmatter", filename));
 
     // derive module name from filename if not specified
-    // e.g., "22-01-01_euclid-mullin.md" -> "euclid_mullin"
+    // e.g., "euclid-mullin.md" -> "euclid_mullin"
     let module_name = module_name.unwrap_or_else(|| {
         let stem = filename.strip_suffix(".md").unwrap_or(filename);
-        // remove date prefix (YY-MM-DD_)
-        let name = if stem.len() > 10 && stem.chars().nth(8) == Some('_') {
-            &stem[9..]
-        } else {
-            stem
-        };
         // convert hyphens to underscores for valid Rust identifier
-        name.replace('-', "_")
+        stem.replace('-', "_")
     });
 
     BlogPost {
@@ -176,6 +179,7 @@ fn parse_frontmatter(content: &str, filename: &str) -> BlogPost {
         date,
         tags,
         summary,
+        wip,
     }
 }
 

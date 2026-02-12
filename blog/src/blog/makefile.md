@@ -1,6 +1,6 @@
 <!--
 date: "2022-12-01"
-tags: [programming]
+tags: [c]
 title: "Makefile for Small Stuff"
 summary: "A step-by-step guide to writing Makefiles for small C/C++ projects."
 -->

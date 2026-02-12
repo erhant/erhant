@@ -14,7 +14,7 @@ Blog posts are markdown files in `src/blog/` with HTML-commented frontmatter. Th
 
 ## Adding a New Post
 
-1. Create a markdown file in `src/blog/` with naming convention `YY-MM-DD_slug.md`
+1. Create a markdown file in `src/blog/slug.md`
 2. Add HTML-commented frontmatter at the top:
 
 ```markdown
@@ -49,6 +49,7 @@ post: optional_custom_module_name
 - `title`: Post title shown in the TOC (required)
 - `summary`: One-sentence summary shown in the TOC (required)
 - `post`: Optional custom module name (defaults to slug from filename)
+- `wip`: Optional, set to `true` to exclude the post from the build
 
 HTML comments are used so the frontmatter is hidden in rendered docs.
 
@@ -85,7 +86,7 @@ blog/
 │   ├── ABOUT.md          # Personal profile/links
 │   ├── blog.rs           # Blog module, includes generated blog_posts.rs
 │   └── blog/
-│       └── *.md          # Blog posts (YY-MM-DD_slug.md format)
+│       └── *.md          # Blog posts (slug.md format)
 └── .claude/
     └── CLAUDE.md         # This file
 ```
@@ -111,9 +112,9 @@ The build script handles everything:
 
 ## Development Notes
 
-- **Adding posts**: Create `src/blog/YY-MM-DD_slug.md` with frontmatter, then `cargo build`
+- **Adding posts**: Create `src/blog/my-post.md` with frontmatter, then `cargo build`
 - **Mermaid diagrams**: Use ` ```mermaid ` code blocks - transformed automatically
-- **Naming**: Module names derived from filename slug (hyphens → underscores)
+- **Naming**: Module names derived from filename (hyphens → underscores, e.g. `my-post.md` → `mod my_post`)
 - **Ordering**: The TOC in `blog` module lists posts in reverse-chronological order
 - **Publishing**: `cargo publish` pushes to crates.io, docs.rs builds automatically
 - **Edition**: Uses Rust 2024 edition
