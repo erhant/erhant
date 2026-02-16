@@ -2,6 +2,8 @@ use std::fs;
 use std::io::Write;
 use std::path::Path;
 
+const DISCUSSION_LINK: &str = "---\n\n[Discuss this post on GitHub](https://github.com/erhant/erhant/discussions)";
+
 fn main() {
     let manifest_dir = std::env::var("CARGO_MANIFEST_DIR").unwrap();
     let blog_dir = Path::new(&manifest_dir).join("src/blog");
@@ -32,8 +34,9 @@ fn main() {
                 .unwrap_or_else(|e| panic!("{}: failed to read file: {}", filename, e));
             let post = parse_frontmatter(&content, filename);
 
-            // transform mermaid blocks and write to OUT_DIR
+            // transform mermaid blocks, append giscus, and write to OUT_DIR
             let transformed = transform_mermaid_blocks(&content);
+            let transformed = format!("{transformed}\n\n{DISCUSSION_LINK}");
             let out_file_path = out_path.join(filename);
             fs::write(&out_file_path, &transformed).unwrap_or_else(|e| {
                 panic!("{}: failed to write transformed file: {}", filename, e)
