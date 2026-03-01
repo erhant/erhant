@@ -18,7 +18,7 @@
   <a href="https://app.ens.domains/name/erhant.eth/details"><img src="https://img.shields.io/badge/.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=3c3c3d&labelColor=ecf0f1" alt="ENS"></a>
 </p>
 
-<h5 align="center">https://github.com/erhant/erhant/labels/notes</h5>
+<h5 align="center">https://github.com/erhant/erhant/labels/writings</h5>
 <p align="center">
   <a href="https://crypto.erhant.me"><img src="https://img.shields.io/badge/crypto-003A70?style=flat-square&logo=letsencrypt&labelColor=003A70&logoColor=white" alt="crypto.erhant.me"></a>
   <a href="https://circom.erhant.me"><img src="https://img.shields.io/badge/circom-7B3FE4?style=flat-square&logo=polygon&labelColor=7B3FE4&logoColor=white" alt="circom.erhant.me"></a>
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/.vscode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 <br/>
   <img src="https://img.shields.io/badge/.github-000000?style=flat-square&logo=github-copilot&logoColor=white" alt="Copilot" />
@@ -60,6 +59,17 @@
   <img src="https://img.shields.io/badge/.xpi-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero" />
 </p>
 
+<h5 align="center">https://github.com/erhant/erhant/labels/setup</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white" alt="Browser" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=gitforwindows&logoColor=white" alt="IDE" />
+<br/>
+  <img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/ZSA-E2B714?style=flat-square&logo=monkeytype&logoColor=white" alt="Keyboard" />
+  <img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&logo=ghostty&logoColor=white" alt="Terminal" />
+</p>
+
 ---
 
 <details>
@@ -68,6 +78,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=erhant&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=onedark" alt="erhant-stats" /> -->
 
 [<kbd>✨ click on me to see all of my pull-requests ✨</kbd>](https://github.com/search?q=author%3Aerhant+is%3Apublic+-org%3Afirstbatchxyz+-org%3Aerhant&sort=updated&order=desc&type=pullrequests)
+
+[<kbd>✨ click on me to see my keyboard layout ✨</kbd>](https://configure.zsa.io/moonlander/layouts/qQNaK/)
 
 <h4> cryptography & zero-knowledge </h4>
 
