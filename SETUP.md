@@ -4,18 +4,18 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 
 1. Download Brave Browser (using Safari)
 1. Install Brave extensions: Rabby, MetaMask, Phantom
-1. Download Spotify, open up some jazz in the background
+1. Download [Ghostty](https://ghostty.org/download) 👻
+1. Setup `zsh` with <https://github.com/gustavohellwig/gh-zsh>
+1. Configure terminal with `p10k configure`
+1. Download [Spotify](https://www.spotify.com/download/), open up some jazz in the background
 1. Import bookmarks (hopefully you have them)
 1. Download VSCode & sign-in with GitHub and sync settings
-1. Install Homebrew
-1. Install FiraCode font
+1. Install [Homebrew](https://brew.sh/)
+1. Install [FiraCode](https://fonts.google.com/specimen/Fira+Code) font
 1. Download Discord
 1. Download Zoom (always need it somewhere)
-1. Download Zotero (paper reading etc.)
-1. Download Telegram & Whatsapp Desktop
-1. Download Ghostty 👻
-1. Setup `zsh` with <https://github.com/gustavohellwig/gh-zsh>
-1. Configure terminal with `p10k configure` inside VSCode integrated terminal
+1. Download [Zotero](https://www.zotero.org/download/) and its connector extension
+1. Download [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807) & [Whatsapp](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
 1. Login to stuff in your bookmarks, especially Google account
 1. Download Docker Desktop
 1. Install Rust
@@ -24,8 +24,7 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Install BunJS
 1. Install Foundry
 1. Install Circom
-1. Setup GitHub SSH keys
-1. Download Ollama
+1. Install GitHub CLI & authenticate
 
 ## Mac Mini Setup
 
