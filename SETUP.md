@@ -3,6 +3,7 @@
 Note to self because I'm dumb I should write down what I do when I change a PC (most probably a Mac):
 
 1. Download Brave Browser (using Safari)
+1. Install [GitHub CLI](https://cli.github.com/) & authenticate
 1. Install Brave extensions: Rabby, MetaMask, Phantom
 1. Download [Ghostty](https://ghostty.org/download) 👻
 1. Setup `zsh` with <https://github.com/gustavohellwig/gh-zsh>
@@ -16,15 +17,13 @@ Note to self because I'm dumb I should write down what I do when I change a PC (
 1. Download Zoom (always need it somewhere)
 1. Download [Zotero](https://www.zotero.org/download/) and its connector extension
 1. Download [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807) & [Whatsapp](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
-1. Login to stuff in your bookmarks, especially Google account
-1. Download Docker Desktop
-1. Install Rust
-1. Install Python, and install `uv`
-1. Install NodeJS, and install `yarn` and `pnpm` as well
-1. Install BunJS
-1. Install Foundry
-1. Install Circom
-1. Install GitHub CLI & authenticate
+1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+1. Install [Rust](https://rust-lang.org/tools/install/)
+1. Install [Uv](https://docs.astral.sh/uv/getting-started/installation/) (for Python)
+1. Install [NodeJS](https://nodejs.org/en/download), and install `yarn` and `pnpm` as well
+1. Install [BunJS](https://bun.com/docs/installation)
+1. Install [Foundry](https://www.getfoundry.sh/)
+1. Install [Circom](https://docs.circom.io/getting-started/installation/)
 
 ## Mac Mini Setup
 
