@@ -1,31 +1,4 @@
-# Setup
-
-Note to self because I'm dumb I should write down what I do when I change a PC (most probably a Mac):
-
-1. Download Brave Browser (using Safari)
-1. Install [GitHub CLI](https://cli.github.com/) & authenticate
-1. Install Brave extensions: Rabby, MetaMask, Phantom
-1. Download [Ghostty](https://ghostty.org/download) 👻
-1. Setup `zsh` with <https://github.com/gustavohellwig/gh-zsh>
-1. Configure terminal with `p10k configure`
-1. Download [Spotify](https://www.spotify.com/download/), open up some jazz in the background
-1. Import bookmarks (hopefully you have them)
-1. Download VSCode & sign-in with GitHub and sync settings
-1. Install [Homebrew](https://brew.sh/)
-1. Install [FiraCode](https://fonts.google.com/specimen/Fira+Code) font
-1. Download Discord
-1. Download Zoom (always need it somewhere)
-1. Download [Zotero](https://www.zotero.org/download/) and its connector extension
-1. Download [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807) & [Whatsapp](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
-1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-1. Install [Rust](https://rust-lang.org/tools/install/)
-1. Install [Uv](https://docs.astral.sh/uv/getting-started/installation/) (for Python)
-1. Install [NodeJS](https://nodejs.org/en/download), and install `yarn` and `pnpm` as well
-1. Install [BunJS](https://bun.com/docs/installation)
-1. Install [Foundry](https://www.getfoundry.sh/)
-1. Install [Circom](https://docs.circom.io/getting-started/installation/)
-
-## Mac Mini Setup
+# Mac Mini Setup
 
 I have a Mac Mini that I had setup separately. Then, I've placed it alongside the router with an Ethernet connection, and nothing else (no keyboard / mouse / monitor). I have allowed <kbd>Settings > Sharing > Remote Login</kbd> and <kbd>Settings > Sharing > Screen Sharing</kbd> to connect to it via SSH and Screen Sharing if needed, via local network.
 
