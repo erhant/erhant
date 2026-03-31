@@ -17,13 +17,13 @@ For the problems here, I also [have a repo](https://github.com/erhant/ethernaut-
 
 Welcome! It is going to be a long but immensely educational road. This level prepares you on how to use the console. Start by typing `help()`. Get comfortable with the commands you see there. You will need some test ether too, so please do visit the faucets linked there and get some ether.
 
-1. To start, click on the big blue button to get a new level instance. This will be your target contract on all puzzles. You will be doing stuff to it, hijacking it's ownership, draining its balance and whatever!
+1. To start, click on the big blue button to get a new level instance. This will be your target contract on all puzzles. You will be doing stuff to it, hijacking it's ownership, draining its balance and whatever.
 
-2. The rest of the level starts by calling `contract.info()`. In Chrome v62 (or Brave browser), you can use `await` in the console. That makes things a lot easier; call `await contract.info()`. Note that once you get to `contract.` the console will show you the properties of the contract object, and there are a bunch of functions there!
+2. The rest of the level starts by calling `contract.info()`. In Chrome v62 (or Brave browser), you can use `await` in the console. That makes things a lot easier; call `await contract.info()`. Note that once you get to `contract.` the console will show you the properties of the contract object, and there are a bunch of functions there.
 
 3. It tells us that we have what we need in `info1()`. So naturally, we will call `await contract.info1()`.
 
-4. We are told to call `info2()` with `"hello"` parameter! We do so with `await contract.info2("hello")`.
+4. We are told to call `info2()` with `"hello"` parameter. We do so with `await contract.info2("hello")`.
 
 5. We are told to check the `infoNum()` property. When we do so with `await contract.infoNum()` we get some weird stuff back in our console. What the hell is this?? Fret not, tis a mere [BigNumber object](https://web3js.readthedocs.io/en/v1.2.11/web3-utils.html#bn). You can convert it to a number or string via `toNumber()` or `toString()`. Once we do so, we see that it denotes the number 42.
 
@@ -41,11 +41,11 @@ Welcome! It is going to be a long but immensely educational road. This level pre
 
 6. We know what to do already, let's call `await contract.info42()`. We see that we should have called `theMethodName` instead.
 
-7. So we do: `await contract.theMethodName`. Oh, we need to call `method7123949` instead!
+7. So we do: `await contract.theMethodName`. Oh, we need to call `method7123949` instead..
 
-8. Once we call `await contract.method7123949()`, we see the following message: "If you know the password, submit it to `authenticate()`". Do we know the password? There certainly seems to be a `password()` function as a property of our `contract` object, so let's call it!
+8. Once we call `await contract.method7123949()`, we see the following message: "If you know the password, submit it to `authenticate()`". Do we know the password? There certainly seems to be a `password()` function as a property of our `contract` object, so let's call it.
 
-9. After `await contract.password()` we get the password as `ethernaut0`. Submitting this to `await contract.authenticate("ethernaut0")` prompts us to confirm a transaction!
+9. After `await contract.password()` we get the password as `ethernaut0`. Submitting this to `await contract.authenticate("ethernaut0")` prompts us to confirm a transaction.
 
 Once that is mined, we seem to have nothing more to do. As the next natural thing to do, we may as well submit our instance (the orange button). Indeed, that is the end of the level! Congratulations, you are now ready for the real deal.
 
@@ -103,7 +103,7 @@ The receive function is flawed, we just need to send some value via contribute a
 
 1. We will contribute 1 Wei.
 2. We will then send money to the contract address via a fallback function. This can be done by calling a non-existent function in the contract with some ether value.
-3. We are now the owner!
+3. We are now the owner.
 4. To deal the final blow, we call the `withdraw` function. By only spending 2 Wei, we got the owners balance :)
 
 ```js
@@ -171,7 +171,7 @@ contract Fallout {
 }
 ```
 
-Prior to the `constructor` function, the constructor was used as the function that has the same name with the contract. However, if by any chance the supposed constructor function has a different name, you are open to attacks! In this case, the name is `Fallout` but the function is written as `Fal1out`.
+Prior to the `constructor` function, the constructor was used as the function that has the same name with the contract. However, if by any chance the supposed constructor function has a different name, you are open to attacks. In this case, the name is `Fallout` but the function is written as `Fal1out`.
 
 This actually happened to [Rubixi](https://github.com/crytic/not-so-smart-contracts/tree/master/wrong_constructor_name). The author initially used DynamicPyramid as the contract name, and therefore the constructor. Later, he only changed the contract name to Rubixi and forgot the DynamicPyramid constructor as is, effectively leaving it up for grabs. Someone did grab eventually.
 
@@ -250,7 +250,7 @@ contract Attacker {
 }
 ```
 
-That is pretty much it!
+That is pretty much it.
 
 ## 4. [Telephone](https://ethernaut.openzeppelin.com/level/4)
 
@@ -329,7 +329,7 @@ contract Token {
 }
 ```
 
-This attack makes use of the integer overflow or integer underflow exploit. In fact, the statement `require(balances[msg.sender] - _value >= 0);` is completely wrong because the calculation is happening on unsigned integers! Of course, they will always be greater than or equal to 0.
+This attack makes use of the integer overflow or integer underflow exploit. In fact, the statement `require(balances[msg.sender] - _value >= 0);` is completely wrong because the calculation is happening on unsigned integers. Of course, they will always be greater than or equal to 0.
 
 We can't exploit the bug by sending money to ourselves, because the two lines will cancel out:
 
@@ -346,7 +346,7 @@ await contract.transfer("0x0000000000000000000000000000000000000000", 21);
 
 Once this transaction is mined, we are basically rich in whatever this token is (we have 115792089237316195423570985008687907853269984665640564039457584007913129639935 of it to be exact). No need to worry about the burnt 21 tokens back there :)
 
-If you REALLY worry about burning tokens, just create a contract and transfer there instead!
+If you REALLY worry about burning tokens, just create a contract and transfer there instead.
 
 ## 6. [Delegation](https://ethernaut.openzeppelin.com/level/6)
 
@@ -445,7 +445,7 @@ contract Attacker {
 }
 ```
 
-That is all about this one!
+That is all about this one.
 
 ## 8. [Vault](https://ethernaut.openzeppelin.com/level/8)
 
@@ -513,7 +513,7 @@ contract King {
 }
 ```
 
-The ponzi starts with 0.001 ether. We can exploit the game by giving an greater or equal ether, but via a contract that disallows receiving ether. This way, if someone is eligible to be the new king, the transaction will fail when it tries to send us the prize!
+The ponzi starts with 0.001 ether. We can exploit the game by giving an greater or equal ether, but via a contract that disallows receiving ether. This way, if someone is eligible to be the new king, the transaction will fail when it tries to send us the prize.
 
 ```solidity
 // SPDX-License-Identifier: GPL-3.0
@@ -637,7 +637,7 @@ contract Attacker {
 }
 ```
 
-This is how "The DAO" hack was executed, which resulted in the creation of Ethereum Classic; pretty mind-blowing to think just the misplacement of two lines caused a million-dollar hack!
+This is how "The DAO" hack was executed, which resulted in the creation of Ethereum Classic; pretty mind-blowing to think just the misplacement of two lines caused a million-dollar hack.
 
 ## 11. [Elevator](https://ethernaut.openzeppelin.com/level/11)
 
@@ -754,7 +754,7 @@ Now we just need `data[2]` casted down to `bytes16`. Here is how casting works i
 - Conversion to smaller byte costs less significant bits. (e.g. `bytes32 -> bytes16`)
 - Conversion to larger byte add padding bits to the right. (e.g. `bytes16 -> bytes32`)
 
-So, when we cast down `data[2]` we will get the left-half of it: `'0x46b7d5d54e84dc3ac47f57bea2ca5f79c04dadf65d3a0f3581dcad259f9480cf'.slice(0, 2 + 32)` and then `await contract.unlock('0x46b7d5d54e84dc3ac47f57bea2ca5f79')`. That is all! Here is a good article on reading storage: <https://medium.com/@dariusdev/how-to-read-ethereum-contract-storage-44252c8af925>.
+So, when we cast down `data[2]` we will get the left-half of it: `'0x46b7d5d54e84dc3ac47f57bea2ca5f79c04dadf65d3a0f3581dcad259f9480cf'.slice(0, 2 + 32)` and then `await contract.unlock('0x46b7d5d54e84dc3ac47f57bea2ca5f79')`. That is all. Here is a good article on reading storage: <https://medium.com/@dariusdev/how-to-read-ethereum-contract-storage-44252c8af925>.
 
 ## 13. [Gatekeeper One](https://ethernaut.openzeppelin.com/level/13)
 
@@ -792,7 +792,7 @@ contract GatekeeperOne {
 }
 ```
 
-Wow this was challenging! We must pass 3 obstacles (gates) that are implemented as modifiers:
+Wow this was challenging. We must pass 3 obstacles (gates) that are implemented as modifiers:
 
 1. Simple `msg.sender != tx.origin`.
 2. A cute `gasLeft().mod(8191) == 0`.
@@ -816,16 +816,16 @@ Here we need to adjust the gas used in the transaction. We can do this by specif
 
 1. Copy paste the contract in Remix, and try to enter the gate (assuming that gate 1 is passing at this point). I wrote a small utility for this in my attacker contract, shown above.
 
-2. Unless you are extremely lucky, the transaction will be rejected by this gate. That is ok, because we want to debug it!
+2. Unless you are extremely lucky, the transaction will be rejected by this gate. That is ok, because we want to debug it.
 
 3. Debug the transaction in Remix to get to the [`GAS`](https://github.com/crytic/evm-opcodes) opcode, which is what `gasleft()` is doing in the background. There, we will look at the `remaining gas` field in "Step Details". You can easily get there in several ways:
    1. Clicking "Click _here_ to jump where the call reverted." and then going backward a bit until you find the opcode.
    2. Putting a breakpoint to the line with `gasleft()` and clicking right arrow at the debugger, which will go very close to that opcode.
    3. Another cool way is to actually get inside the SafeMath libraries modulus function, and then look at the local variables in the debugger. One of them will be 8191, the other will be the gas in question.
 
-4. In my case, I had forwarded 10000 gas and right at the `GAS` opcode I had 9748 left. That means I used 252 gas to get there. If I start with 8191 \* k + 252 gas for some large enough "k" to meet the overall gas requirement, I should be okay! The thing is, gas usage can change with respect to the compiler version, but in the puzzle we see that `^0.6.0` is used above, so we will do all the steps above with that version.
+4. In my case, I had forwarded 10000 gas and right at the `GAS` opcode I had 9748 left. That means I used 252 gas to get there. If I start with 8191 \* k + 252 gas for some large enough "k" to meet the overall gas requirement, I should be okay. The thing is, gas usage can change with respect to the compiler version, but in the puzzle we see that `^0.6.0` is used above, so we will do all the steps above with that version.
 
-5. I set the gas candidate as 8191 \* 5 + 252 = 41207 with a margin of 32. Then I let it loose on the gate keeper!
+5. I set the gas candidate as 8191 \* 5 + 252 = 41207 with a margin of 32. Then I let it loose on the gate keeper.
 
 ```solidity
   function enter(uint _gas, uint _margin) public {
@@ -889,7 +889,7 @@ contract GatekeeperTwo {
 }
 ```
 
-Here is another gate puzzle to pass! Again we have three gates:
+Here is another gate puzzle to pass. Again we have three gates:
 
 1. Simple `msg.sender != tx.origin`.
 2. A cute `extcodesize` call via inline assembly.
@@ -912,7 +912,7 @@ modifier gateTwo() {
 }
 ```
 
-The `extcodesize` basically returns the size of the code in the given address, which is caller for this case. Contracts have code, and user accounts do not. To have 0 code size, you must be an account; but wait, how will we pass the first gate if that is the case? Here is the trick of this gate: `extcodesize` returns 0 if it is being called in the `constructor`! Here is a [link](https://ethereum.stackexchange.com/a/15642) to where I stumbled upon this info.
+The `extcodesize` basically returns the size of the code in the given address, which is caller for this case. Contracts have code, and user accounts do not. To have 0 code size, you must be an account; but wait, how will we pass the first gate if that is the case? Here is the trick of this gate: `extcodesize` returns 0 if it is being called in the `constructor`. Here is a [link](https://ethereum.stackexchange.com/a/15642) to where I stumbled upon this info.
 
 In short, we have to execute our attack from within the constructor.
 
@@ -929,7 +929,7 @@ modifier gateThree(bytes8 _gateKey) {
 
 It is just an XOR operation (often denoted with ⊕), and there is really only one parameter we can control here: the gate key. Well, how do we find it? XOR has the property that if the same value XORs itself they cancel out; furthermore, XOR is commutative so `a ⊕ b = b ⊕ a`. Starting with `a ⊕ b = c`, if we XOR both sides with `a` we get `a ⊕ a ⊕ b = c ⊕ a`, and the left side cancels out to give `b = c ⊕ a`.
 
-One more thing: `(uint64(0) - 1)` causes is not really good for Solidity, and even caused gas estimation errors for me! The result is basically the maximum possible value of `uint64`, and we have a cool way to find it via `type(uint64).max`.
+One more thing: `(uint64(0) - 1)` causes is not really good for Solidity, and even caused gas estimation errors for me. The result is basically the maximum possible value of `uint64`, and we have a cool way to find it via `type(uint64).max`.
 
 We can safely find the gate key as:
 
@@ -937,7 +937,7 @@ We can safely find the gate key as:
 bytes8 key = bytes8(type(uint64).max ^ uint64(bytes8(keccak256(abi.encodePacked(address(this))))));
 ```
 
-That is all for this one!
+That is all for this one.
 
 ## 15. [Naught Coin](https://ethernaut.openzeppelin.com/level/15)
 
@@ -1044,12 +1044,12 @@ contract LibraryContract {
 }
 ```
 
-Here we are in the hands of the almighty `delegatecall`. The given contract actually suffers from a bug, which we used as an exploit in the 6th level (Delegation). When we call `setFirstTime`, it actually overwrites the value in `timeZone1Library` storage variable! Here is what we do:
+Here we are in the hands of the almighty `delegatecall`. The given contract actually suffers from a bug, which we used as an exploit in the 6th level (Delegation). When we call `setFirstTime`, it actually overwrites the value in `timeZone1Library` storage variable. Here is what we do:
 
 1. Create a contract that has a function with `setTime(uint256)` signature. This contract should have enough storage variables so that you can overwrite `owner` variable in the caller's context.
 2. Set the `timeZone1Library` address to the address of this contract via `setFirstTime(<your contract address>)`.
 3. Call `setFirstTime(<whatever>)` again to execute your custom function.
-4. Et voila! You are the owner.
+4. Et voila, you are the owner.
 
 A good takeaway from this level, quoting the author's message: "This example demonstrates why the library keyword should be used for building libraries, as it prevents the libraries from storing and accessing state variables."
 
@@ -1135,7 +1135,7 @@ await web3.eth.sendTransaction({
 
 ### Original Solution
 
-Upon sending my solution to Ethernaut, I have learned the actual solution in the message afterwards! Turns out that contract addresses are deterministic and are calculated by `keccack256(RLP_encode(address, nonce))`. The nonce for a contract is the number of contracts it has created. All nonce's are 0 for contracts, but they become 1 once they are created (their own creation makes the nonce 1).
+Upon sending my solution to Ethernaut, I have learned the actual solution in the message afterwards. Turns out that contract addresses are deterministic and are calculated by `keccack256(RLP_encode(address, nonce))`. The nonce for a contract is the number of contracts it has created. All nonce's are 0 for contracts, but they become 1 once they are created (their own creation makes the nonce 1).
 
 Read about RLP encoding in the Ethereum docs [here](https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp). We want the RLP encoding of a 20 byte address and a nonce value of 1, which corresponds to the list such as `[<20 byte string>, <1 byte integer>]`.
 
@@ -1173,7 +1173,7 @@ web3.utils.soliditySha3(
 );
 ```
 
-What is different with `soliditySha3` rather than `sha3` is that this one will encode-packed the parameters like Solidity would; hashing afterwards. The last 20 bytes of the resulting digest will be the contract address! Calling the `destroy` function is same as above.
+What is different with `soliditySha3` rather than `sha3` is that this one will encode-packed the parameters like Solidity would; hashing afterwards. The last 20 bytes of the resulting digest will be the contract address. Calling the `destroy` function is same as above.
 
 ## 18. [Magic Number](https://ethernaut.openzeppelin.com/level/18)
 
@@ -1215,11 +1215,11 @@ contract Solver {
 }
 ```
 
-and deploy it, I see that there are _waaay_ more than 10 opcodes when I call the function and check the opcodes in the Remix IDE debugger. So, we need to somehow write our own assembly there. To do this, we will **become** the compiler and do barebones contract creation: a transaction to address `0x0` with some data that makes our contract! Contract creation codes are made of two parts: initialization code and runtime code. Let us do the runtime first, since we know what to do there: return 42 somehow!
+and deploy it, I see that there are _waaay_ more than 10 opcodes when I call the function and check the opcodes in the Remix IDE debugger. So, we need to somehow write our own assembly there. To do this, we will **become** the compiler and do barebones contract creation: a transaction to address `0x0` with some data that makes our contract. Contract creation codes are made of two parts: initialization code and runtime code. Let us do the runtime first, since we know what to do there: return 42 somehow.
 
 ### Runtime Code
 
-I remembered the days I was taking an Assembly x8086 class back in my bachelor's, where we had to bring a bunch of papers stabled together, with all x8086 instructions on it! Our documentation here for opcodes will be <https://www.ethervm.io/>. You can also check <https://www.evm.codes/>.
+I remembered the days I was taking an Assembly x8086 class back in my bachelor's, where we had to bring a bunch of papers stabled together, with all x8086 instructions on it. Our documentation here for opcodes will be <https://www.ethervm.io/>. You can also check <https://www.evm.codes/>.
 
 1. I CTRL+F to search "return", and first check the [`RETURN`](https://www.ethervm.io/#F3) opcode: `RETURN <offset> <length>`. Apparently, it returns `length` bytes from the `offset` in memory. So we need to store our 42 in **memory** first.
 2. I CTRL+F "memory" to find the [related section](https://www.ethervm.io/#memory), and there we have 3 instructions. I find [`MSTORE`](https://www.ethervm.io/#52) to be good for our use-case. `MSTORE <offset> <value>`. Now we need to provide the actual data that these instructions read from the **stack**. _Note: using `MSTORE8` did not work._
@@ -1238,9 +1238,9 @@ PUSH1 0x80 // position to return the data
 RETURN     // returns 32 bytes from 0x80
 ```
 
-The memory slot `0x80` is very important to note. I initially wrote to other smaller memory slots but my solution was not accepted; turns out that the first 4 32-byte slots are reserved! Read more at <https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_memory.html>.
+The memory slot `0x80` is very important to note. I initially wrote to other smaller memory slots but my solution was not accepted; turns out that the first 4 32-byte slots are reserved. Read more at <https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_memory.html>.
 
-In terms of bytecode, we need all of these written consecutively as one big chunk, with the actual opcodes instead of instructions. `PUSH1` is `60`, `MSTORE` is `52` and `RETURN` is `F3`. Writing everything side by side we get: `60 2A 60 80 52 60 20 60 80 F3`; our brand new runtime code; exactly 10 bytes!
+In terms of bytecode, we need all of these written consecutively as one big chunk, with the actual opcodes instead of instructions. `PUSH1` is `60`, `MSTORE` is `52` and `RETURN` is `F3`. Writing everything side by side we get: `60 2A 60 80 52 60 20 60 80 F3`; our brand new runtime code; exactly 10 bytes.
 
 ### Initialization Code
 
@@ -1279,7 +1279,7 @@ await web3.eth.sendTransaction({
 });
 ```
 
-The returned object in console will have a `contractAddress` if everything goes well. You can confirm that the bytecode is correct by checking it on <https://rinkeby.etherscan.io/>, and look at the opcodes by clicking "Switch To Opcodes View" button under the "Contract" tab. Afterwards, just set the solver to this contract address and submit!
+The returned object in console will have a `contractAddress` if everything goes well. You can confirm that the bytecode is correct by checking it on <https://rinkeby.etherscan.io/>, and look at the opcodes by clicking "Switch To Opcodes View" button under the "Contract" tab. Afterwards, just set the solver to this contract address and submit.
 
 ## 19. [Alien Codex](https://ethernaut.openzeppelin.com/level/19)
 
@@ -1317,10 +1317,10 @@ contract AlienCodex is Ownable {
 }
 ```
 
-The problem is hinting us to somehow use the `codex` array to change the owner of the contract. The tool in doing so probably has something to do with the `length` of array. In fact, the `retract` is suspiciously dangerous, and actually might _underflow_ the array length!. The array length is an `uint256`, and once it is underflowed you basically "have" the entire contract storage (all `2 ^ 256 - 1` slots) as a part of your array. Consequently, you can index everything in the memory with that array!
+The problem is hinting us to somehow use the `codex` array to change the owner of the contract. The tool in doing so probably has something to do with the `length` of array. In fact, the `retract` is suspiciously dangerous, and actually might _underflow_ the array length. The array length is an `uint256`, and once it is underflowed you basically "have" the entire contract storage (all `2 ^ 256 - 1` slots) as a part of your array. Consequently, you can index everything in the memory with that array.
 
-- After `make_contact`, we see that `await web3.eth.getStorageAt(contract.address, 0)` returns `0x000000000000000000000001da5b3fb76c78b6edee6be8f11a1c31ecfb02b272`. Remember that smaller than 32-bytes variables are bundled together if they are conseuctive, so this is actually `owner` and `contact` variable side by side! The `01` at the end of leftmost `0x00..01` stands for the boolean value.
-- The next slot, `await web3.eth.getStorageAt(contract.address, 1)` is the length of `codex` array. If you record something you will see that it gets incremented. Well, what if we `retract`? You will be shocked to see that it becomes `0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`!
+- After `make_contact`, we see that `await web3.eth.getStorageAt(contract.address, 0)` returns `0x000000000000000000000001da5b3fb76c78b6edee6be8f11a1c31ecfb02b272`. Remember that smaller than 32-bytes variables are bundled together if they are conseuctive, so this is actually `owner` and `contact` variable side by side. The `01` at the end of leftmost `0x00..01` stands for the boolean value.
+- The next slot, `await web3.eth.getStorageAt(contract.address, 1)` is the length of `codex` array. If you record something you will see that it gets incremented. Well, what if we `retract`? You will be shocked to see that it becomes `0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`.
 
 So then, how does indexing work and how can we index the `owner` slot now that our array covers the entire storage? We look at the docs of highest version 0.5.0 as that is what the puzzle uses: <https://docs.soliditylang.org/en/v0.5.17/miscellaneous.html#mappings-and-dynamic-arrays>.
 
@@ -1337,7 +1337,7 @@ await web3.eth.getStorageAt(
 // 0xffffffffffffffffffffffffffffffff00000000000000000000000000000000
 ```
 
-Alright, so first we have to `retract` until the array length underflows, and then we just have to offset enough from `keccak256(1)` until we overflow and get back to 0th index, overwriting the `owner`! The array data is located at `uint256(keccak256(1))` and there are `2 ** 256 - 1 - uint256(keccak256(1))` values between that and the end of memory. So, just adding one more to that would mean we go to 0th index. To calculate this index I just wrote a small Solidity code in Remix:
+Alright, so first we have to `retract` until the array length underflows, and then we just have to offset enough from `keccak256(1)` until we overflow and get back to 0th index, overwriting the `owner`. The array data is located at `uint256(keccak256(1))` and there are `2 ** 256 - 1 - uint256(keccak256(1))` values between that and the end of memory. So, just adding one more to that would mean we go to 0th index. To calculate this index I just wrote a small Solidity code in Remix:
 
 ```solidity
 function index() public pure returns(uint256) {
@@ -1357,7 +1357,7 @@ await contract.revise(
 );
 ```
 
-Note that you can't set the array length property since version 0.6.0, thankfully! See <https://ethereum.stackexchange.com/a/84130>.
+Note that you can't set the array length property since version 0.6.0, thankfully. See <https://ethereum.stackexchange.com/a/84130>.
 
 ## 20. [Denial](https://ethernaut.openzeppelin.com/level/20)
 
@@ -1400,7 +1400,7 @@ contract Denial {
 }
 ```
 
-In this level, the exploit has to do with `call` function: `partner.call{value:amountToSend}("")`. Here, a `call` is made to the partner address, with empty `msg.data` and `amountToSend` value. When using `call`, if you do not specify the amount of gas to forward, it will forward everything! As the comment line says, reverting the call will not affect the execution, but what if we consume all gas in that call?
+In this level, the exploit has to do with `call` function: `partner.call{value:amountToSend}("")`. Here, a `call` is made to the partner address, with empty `msg.data` and `amountToSend` value. When using `call`, if you do not specify the amount of gas to forward, it will forward everything. As the comment line says, reverting the call will not affect the execution, but what if we consume all gas in that call?
 
 That is the attack. We will write a `fallback` function because the call is made with no message data, and we will just put an infinite loop in there:
 
@@ -1598,7 +1598,7 @@ Giving us `p_1 = 0`, `p_2 = 20`, `d_1 = 110`, `d_2 = 90`, that is, we traded 10 
 sa = p_2 * (d_1 / d_2) = 20 * (110 / 90) = 24
 ```
 
-Woah! We just got 24 tokens for giving 20, even though they were treated equally in the previous trade. Let us try to simulate this with javascript real quick and see if this goes on:
+Woah, we just got 24 tokens for giving 20, even though they were treated equally in the previous trade. Let us try to simulate this with javascript real quick and see if this goes on:
 
 ```js
 function simulate(t1_dex, t2_dex, t1_player, t2_player, maxiters = 10) {
@@ -1749,7 +1749,7 @@ async function pwn(maxiters = 10) {
 // await pwn()
 ```
 
-Once you run the function above, it will take a series of transactions (your console will be quite colorful) to complete but in the end, DEX will have depleted one of the tokens! To confirm, you may run the 4 lines at the beginning of this post to check the balances.
+Once you run the function above, it will take a series of transactions (your console will be quite colorful) to complete but in the end, DEX will have depleted one of the tokens. To confirm, you may run the 4 lines at the beginning of this post to check the balances.
 
 ## 23. [Dex Two](https://ethernaut.openzeppelin.com/level/23)
 
@@ -1813,14 +1813,14 @@ contract SwappableTokenTwo is ERC20 {
 }
 ```
 
-Here we have another DEX similar to the previous level, but this one requires both tokens to be depleted. There is one subtle yet crucial difference within the `swap` function, it does not check the validity of token addresses! In the previous one, we had a `require` statement checking that both `from` and `to` tokens are that of either tokens the DEX is responsible of. This gives us an idea of an attack, creating our own tokens and somehow use them to drain the DEX of its tokens.
+Here we have another DEX similar to the previous level, but this one requires both tokens to be depleted. There is one subtle yet crucial difference within the `swap` function, it does not check the validity of token addresses. In the previous one, we had a `require` statement checking that both `from` and `to` tokens are that of either tokens the DEX is responsible of. This gives us an idea of an attack, creating our own tokens and somehow use them to drain the DEX of its tokens.
 
 Again, we have 10 of each token and the DEX has 100 of each. We will create Token 3 and Token 4, and let DEX have 100 of each. We will then make the following trades:
 
 - Send 100 Token 3 to get 100 Token 1. Since the DEX balance of both `to` and `from` tokens are the same, the swap amount will be equal to the amount we set.
 - Send 100 Token 4 to get 100 Token 2. Since the DEX balance of both `to` and `from` tokens are the same, the swap amount will be equal to the amount we set.
 
-This way, the tokens will be depleted by our worthless and arbitrarily created tokens! We use Remix to create [Token 3](https://rinkeby.etherscan.io/address/0xF25aEe0A68c3EC602F0bDD9E45F062dF611F774B) and [Token 4](https://rinkeby.etherscan.io/address/0xc975954d79412d58746240c536220192485AECBB):
+This way, the tokens will be depleted by our worthless and arbitrarily created tokens. We use Remix to create [Token 3](https://rinkeby.etherscan.io/address/0xF25aEe0A68c3EC602F0bDD9E45F062dF611F774B) and [Token 4](https://rinkeby.etherscan.io/address/0xc975954d79412d58746240c536220192485AECBB):
 
 ```solidity
 // SPDX-License-Identifier: GPL-3.0
@@ -1965,7 +1965,7 @@ contract PuzzleWallet {
 }
 ```
 
-We have an Upgradable Proxy implementation in use here. [Proxies](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) are a sort of middleman between some logic and your main contract, such that instead of writing that logic in the main contract and thus not being able to upgrade it, you write it in some other contract and make the proxy point there. This way, if that logic needs an update you create a new contract and point the proxy there. `delegatecall` is used to implement this, but you should know by now that life is not easy when you use `delegatecall` without care!
+We have an Upgradable Proxy implementation in use here. [Proxies](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) are a sort of middleman between some logic and your main contract, such that instead of writing that logic in the main contract and thus not being able to upgrade it, you write it in some other contract and make the proxy point there. This way, if that logic needs an update you create a new contract and point the proxy there. `delegatecall` is used to implement this, but you should know by now that life is not easy when you use `delegatecall` without care.
 
 ### Storage Collision
 
@@ -1988,7 +1988,7 @@ With this exploit in mind, let us see our options:
 
 - To be whitelisted, `addToWhitelist` must be called by the `owner`.
 
-- But hey, `owner` collided with `pendingAdmin` in the proxy, and we can very well overwrite it via `proposeAdmin`! We can add ourselves to the whitelist after becoming the owner.
+- But hey, `owner` collided with `pendingAdmin` in the proxy, and we can very well overwrite it via `proposeAdmin`. We can add ourselves to the whitelist after becoming the owner.
 
 ### Draining the Wallet
 
@@ -1998,7 +1998,7 @@ The plan seems good so far, but one piece is missing: how do we drain the wallet
 - `execute` function allows you to `call` a function on any address with some value that is within your balance. Without any call data and your address as the destination, this acts like a `withdraw` function.
 - `multicall` function allows you to make multiple calls of the above two, in a single transaction. This function is basically the main idea of the entire contract.
 
-The `multicall` function supposedly checks for double spending on `deposit` via a boolean flag; however, this flag works only for one `multicall`! If you were to call `multicall` within a `multicall`, you can bypass it. Since `delegatecall` forwards `msg.value` too, you can put more money than you have to your balance.
+The `multicall` function supposedly checks for double spending on `deposit` via a boolean flag; however, this flag works only for one `multicall`. If you were to call `multicall` within a `multicall`, you can bypass it. Since `delegatecall` forwards `msg.value` too, you can put more money than you have to your balance.
 
 ### Attack
 
@@ -2189,7 +2189,7 @@ contract Engine is Initializable {
 
 We have another proxy-based puzzle here. This time, we see that [EIP-1967](https://eips.ethereum.org/EIPS/eip-1967) is used, which means it is safe against storage collisions. More specifically, EIP-1967 defines a standard storage slot that the proxy uses. As per this standard, the logic contract is stored at `bytes32(uint256(keccak256('eip1967.proxy.implementation')) - 1)`, which is what we see in the code too.
 
-When we examine the Motorbike contract, we realize that it is just a proxy with its logic being the Engine contract. Engine contract is [Initializable](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable#initializers). There is a question mark here though: the `initializer` is called from the proxy, so the affected storage is that of the Motorbike, not the Engine! Consequently, Motorbike should have the results of initialization in it's storage, while Engine should not.
+When we examine the Motorbike contract, we realize that it is just a proxy with its logic being the Engine contract. Engine contract is [Initializable](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable#initializers). There is a question mark here though: the `initializer` is called from the proxy, so the affected storage is that of the Motorbike, not the Engine. Consequently, Motorbike should have the results of initialization in it's storage, while Engine should not.
 
 The `Initializable` contract has 2 storage variables, both 1-byte booleans. The Engine contract has two variables, a 20-byte address and a 32-byte unsigned integer. As per the EVM optimization, 2 booleans and 1 address will all occupy the same slot. So we should see an address and two boolean values side by side at the 0th position.
 
@@ -2210,7 +2210,7 @@ await web3.eth.getStorageAt(engineAddress, 0);
 // '0x0000000000000000000000000000000000000000000000000000000000000000'
 ```
 
-Indeed, the initializer has mistakenly wrote to the proxy storage! The Engine contract has no idea that it is initialized, so we can call the initialize function there.
+Indeed, the initializer has mistakenly wrote to the proxy storage. The Engine contract has no idea that it is initialized, so we can call the initialize function there.
 
 ```js
 await web3.eth.sendTransaction({
@@ -2266,7 +2266,7 @@ await web3.eth.sendTransaction({
 
 We are sending this transaction to Engine instead of Motorbike, because the Engine itself is like a proxy too. Notice in the `_upgradeToAndCall` internal function it makes a `delegatecall` to the `newImplementation`.
 
-What `selfdestruct` within the `newImplementation` achieves here is that it actually destroys the calling Engine, not the Pwner contract! This is again because a `delegatecall` is used. If we check the Engine contract address with block explorer, we will see that it did indeed `selfdestruct`.
+What `selfdestruct` within the `newImplementation` achieves here is that it actually destroys the calling Engine, not the Pwner contract. This is again because a `delegatecall` is used. If we check the Engine contract address with block explorer, we will see that it did indeed `selfdestruct`.
 
 ## 26. [Double Entry Point](https://ethernaut.openzeppelin.com/level/26)
 
@@ -2418,7 +2418,7 @@ await web3.eth.getStorageAt(cryptoVaultAddress, 1);
 // 0x00000000000000000000000025047168b9c737a03a111ec039438403e73b7507
 ```
 
-We got the address of DET token, the one we are supposed to protect! so we want to prevent transfer of DET token; but, can we really?
+We got the address of DET token, the one we are supposed to protect, so we want to prevent transfer of DET token; but, can we really?
 
 ### Sweeping the Underlying Token
 
@@ -2448,7 +2448,7 @@ await web3.eth.call({
 // 0x00000000000000000000000025047168b9c737a03a111ec039438403e73b7507
 ```
 
-Oh boy, they are the same... This is bad for the underlying token because if someone were to call `sweepToken` with `LegacyToken` as the address, it will cause DET to be swept! Let us do so:
+Oh boy, they are the same... This is bad for the underlying token because if someone were to call `sweepToken` with `LegacyToken` as the address, it will cause DET to be swept. Let us do so:
 
 ```js
 // get the addresses from DoubleEntryPoint
@@ -2507,7 +2507,7 @@ After `notify`, our detection bot's `handleTransaction` is called with the same 
 
 The \*\*\* marks the original calldata when `delegateTransfer` is called. For more information on how this is calculated, see to the end of this post where I create a toy-contract to find out the calldata.
 
-Anyways, it is time to write our bot! We will copy-paste the `IDetectionBot` interface, as well as `IForta` interface and `Forta` contract which we will use within to raise an alert.
+Anyways, it is time to write our bot. We will copy-paste the `IDetectionBot` interface, as well as `IForta` interface and `Forta` contract which we will use within to raise an alert.
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -2594,7 +2594,7 @@ await web3.eth.sendTransaction({
 });
 ```
 
-Done!
+Done.
 
 ### About the Calldata
 
