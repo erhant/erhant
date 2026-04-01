@@ -7,6 +7,7 @@
   <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter"></a>
   <a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
   <a href="https://github.com/erhant"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&labelColor=000000&logoColor=white" alt="GitHub"></a>
+  <a href="https://erhant.me/cv"><img src="https://img.shields.io/badge/cv-111111?style=flat-square&labelColor=111111&logo=read.cv" alt="CV"></a>
 <br/>
   <a href="https://docs.rs/erhant"><img src="https://img.shields.io/badge/write-000000?style=flat-square&logo=docs.rs&labelColor=000000&logoColor=white" alt="Dev.to"></a>
   <a href="https://www.goodreads.com/user/show/123323747-erhant"><img src="https://img.shields.io/badge/read-372213?style=flat-square&logo=goodreads&labelColor=372213&logoColor=white" alt="Goodreads"></a>
