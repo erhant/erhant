@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/ZSA-E2B714?style=flat-square&logo=monkeytype&logoColor=white" alt="Keyboard" />
   <img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&logo=ghostty&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Proton-66DEB1?style=flat-square&logo=protonvpn&logoColor=white" alt="VPN" />
 </p>
 
 ---
