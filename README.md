@@ -70,6 +70,9 @@
   <img src="https://img.shields.io/badge/ZSA-E2B714?style=flat-square&logo=monkeytype&logoColor=white" alt="Keyboard" />
   <img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&logo=ghostty&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/Proton-66DEB1?style=flat-square&logo=protonvpn&logoColor=white" alt="VPN" />
+<br/>
+  <img src="https://img.shields.io/badge/Commits-FE5196?style=flat-square&logo=conventionalcommits&logoColor=white" alt="VPN" />
+  <img src="https://img.shields.io/badge/Versioning-3F4551?style=flat-square&logo=semver&logoColor=white" alt="VPN" />
 </p>
 
 ---
