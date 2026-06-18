@@ -32,14 +32,15 @@
   <img src="https://img.shields.io/badge/.rs-F74B01?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/.py-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/.circom-7B3FE4?style=flat-square&logo=polygon&logoColor=white" alt="Circom" />
-  <img src="https://img.shields.io/badge/.lockb-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/.venv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="Uv" />
+  <img src="https://img.shields.io/badge/.bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/.uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="Uv" />
 <br/>
   <img src="https://img.shields.io/badge/.json-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/.rdb-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/.mmd-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 <br/>
+  <img src="https://img.shields.io/badge/.docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/.nix-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="Nix" />
   <img src="https://img.shields.io/badge/.github-000000?style=flat-square&logo=github-copilot&logoColor=white" alt="Copilot" />
   <img src="https://img.shields.io/badge/.claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
