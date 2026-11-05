@@ -5,14 +5,14 @@
 <h5 align="center">https://github.com/erhant/erhant/labels/about</h5>
 <p align="center">
   <a href="https://twitter.com/0xerhant"><img src="https://img.shields.io/badge/tweet-000000?style=flat-square&labelColor=000000&logo=X" alt="Twitter"></a>
-  <a href="https://erhant.me"><img src="https://img.shields.io/badge/home-FF7139?style=flat-square&logo=firefox&labelColor=FF7139&logoColor=white" alt="Website"></a>
   <a href="https://github.com/erhant"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&labelColor=000000&logoColor=white" alt="GitHub"></a>
   <a href="https://erhant.me/cv"><img src="https://img.shields.io/badge/cv-111111?style=flat-square&labelColor=111111&logo=read.cv" alt="CV"></a>
 <br/>
-  <a href="https://docs.rs/erhant"><img src="https://img.shields.io/badge/write-000000?style=flat-square&logo=docs.rs&labelColor=000000&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.erhant.me"><img src="https://img.shields.io/badge/write-000000?style=flat-square&logo=docs.rs&labelColor=000000&logoColor=white" alt="Dev.to"></a>
   <a href="https://www.goodreads.com/user/show/123323747-erhant"><img src="https://img.shields.io/badge/read-372213?style=flat-square&logo=goodreads&labelColor=372213&logoColor=white" alt="Goodreads"></a>
   <a href="https://letterboxd.com/erhany/"><img src="https://img.shields.io/badge/watch-202830?style=flat-square&logo=letterboxd&labelColor=202830&logoColor=white" alt="Letterboxd"></a>
   <a href="https://open.spotify.com/user/erhany?si=6c69e3eb7ad74429"><img src="https://img.shields.io/badge/listen-1DB954?style=flat-square&logo=spotify&labelColor=1DB954&logoColor=white" alt="Spotify"></a>
+  <a href="https://leetcode.com/u/erhant"><img src="https://img.shields.io/badge/solve-FFA116?style=flat-square&labelColor=FFA116&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 <br/>
   <a href="https://www.npmjs.com/~erhant"><img src="https://img.shields.io/badge/.npm-CB3837?style=flat-square&labelColor=CB3837&logo=npm" alt="NPM"></a>
   <a href="https://crates.io/users/erhant"><img src="https://img.shields.io/badge/.cargo-FF7139?style=flat-square&logo=rust&logoColor=white" alt="Crates"></a>
